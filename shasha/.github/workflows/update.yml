@@ -1,0 +1,66 @@
+name: تحديث المواعيد ونشر الموقع
+
+on:
+  schedule:
+    # كل ساعة عند الدقيقة 17 (GitHub يستخدم UTC، والتأخير لعدة دقايق طبيعي)
+    - cron: "17 * * * *"
+  workflow_dispatch: {}      # زر تشغيل يدوي من تبويب Actions
+  push:
+    branches: [main]
+    paths: ["site/**", "pipeline/**", "config/**"]
+
+permissions:
+  contents: write   # عشان يحفظ ملف المواعيد الجديد في المستودع
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت المكتبات
+        run: pip install -r requirements.txt
+
+      - name: الاختبارات
+        run: pip install pytest && pytest -q tests
+
+      - name: سحب وتنظيف وتحديث
+        run: python -m pipeline.run
+
+      - name: حفظ البيانات الجديدة
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/showtimes.json data/history
+          if git diff --cached --quiet; then
+            echo "ما فيه تغيير"
+          else
+            git commit -m "تحديث المواعيد $(TZ=Asia/Riyadh date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

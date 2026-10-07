@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>شاشة واحدة | مواعيد السينما في السعودية</title>
+<meta name="description" content="كل أفلام السينما في السعودية ومواعيدها في مكان واحد. اختر الوقت اللي يناسبك واحجز من موقع الدار نفسها.">
+<meta name="theme-color" content="#14151d">
+<meta property="og:title" content="شاشة واحدة">
+<meta property="og:description" content="وش يعرض الساعة 9 الليلة؟ كل دور السينما في مكان واحد.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<!-- الإحصائيات: ضع سكربت Google Analytics أو Umami هنا (انظر README) -->
+</head>
+<body>
+<div class="page">
+  <header class="top">
+    <a class="brand" href="./">شاشة <span>واحدة</span></a>
+    <span class="fresh" id="fresh" role="status">جاري التحميل…</span>
+  </header>
+
+  <div class="sample-banner" id="sampleBanner" hidden>بيانات تجريبية. ستظهر المواعيد الحقيقية بعد أول تحديث تلقائي.</div>
+
+  <section class="hero" aria-labelledby="heroQ">
+    <h1 id="heroQ">وش يعرض <em id="heroTime">الحين</em>؟</h1>
+    <p class="lede">كل الدور في مكان واحد. اختر الوقت، وشوف كل الأفلام اللي تبدأ قريب منه، واحجز من موقع الدار.</p>
+
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" id="tabTime" aria-selected="true" aria-controls="panelTime">بالوقت</button>
+      <button type="button" role="tab" id="tabMovie" aria-selected="false" aria-controls="panelMovie">بالفلم</button>
+    </div>
+
+    <div class="panel" id="panelTime" role="tabpanel" aria-labelledby="tabTime">
+      <div class="times-pick" id="timePick" aria-label="اختر الوقت"></div>
+      <div class="row">
+        <label class="field" for="customTime">وقت آخر<input type="time" id="customTime" step="900"></label>
+        <label class="field" for="windowSel">يبدأ خلال<select id="windowSel">
+          <option value="45">45 دقيقة</option><option value="90" selected>ساعة ونص</option><option value="180">3 ساعات</option>
+        </select></label>
+      </div>
+    </div>
+
+    <div class="panel" id="panelMovie" role="tabpanel" aria-labelledby="tabMovie" hidden>
+      <label class="field wide" for="q">اسم الفلم<input type="search" id="q" placeholder="اكتب بالعربي أو الإنجليزي" autocomplete="off"></label>
+    </div>
+
+    <div class="row filters">
+      <label class="field" for="city">المدينة<select id="city"></select></label>
+      <div class="chipset" id="formatSet" aria-label="نوع الشاشة"></div>
+      <div class="chipset" id="langSet" aria-label="اللغة"></div>
+    </div>
+  </section>
+
+  <p class="summary" id="summary" aria-live="polite"></p>
+  <main id="results" class="results"></main>
+
+  <section class="elsewhere" aria-labelledby="elsewhereH">
+    <h2 id="elsewhereH">دور نعرض مواعيدها في موقعها</h2>
+    <p>نشتغل على إضافة مواعيدها هنا. لين ذاك الوقت، هذي روابطها المباشرة.</p>
+    <div class="link-list" id="linkList"></div>
+  </section>
+
+  <section class="alerts" id="alerts" hidden aria-labelledby="alertsH">
+    <h2 id="alertsH">نبهني أول ما يفتح الحجز</h2>
+    <p>اكتب إيميلك واسم الفلم، ونرسل لك أول ما تنزل مواعيده.</p>
+    <form id="alertForm" class="row">
+      <label class="field" for="alertEmail">الإيميل<input type="email" id="alertEmail" name="email" required dir="ltr"></label>
+      <label class="field" for="alertMovie">الفلم<input type="text" id="alertMovie" name="movie" required></label>
+      <label class="consent" for="alertConsent"><input type="checkbox" id="alertConsent" name="consent" required> أوافق على <a href="privacy.html">سياسة الخصوصية</a></label>
+      <button type="submit" class="btn">نبهني</button>
+    </form>
+    <p class="form-msg" id="alertMsg" role="status"></p>
+  </section>
+
+  <footer class="foot">
+    <p>شاشة واحدة موقع مستقل وما له علاقة بأي دار سينما. المواعيد تُجمع من الصفحات العامة وتتحدث كل ساعة، والحجز يتم في موقع الدار نفسها. تأكد من الوقت هناك قبل الدفع.</p>
+    <p><a href="privacy.html">سياسة الخصوصية</a></p>
+  </footer>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

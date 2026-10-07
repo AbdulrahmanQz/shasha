@@ -1,0 +1,66 @@
+# مصادر البيانات لكل دار
+# mode:
+#   auto  = نسحب المواعيد تلقائياً (فقط للدور اللي ملف robots.txt حقها يسمح بالصفحات المطلوبة)
+#   link  = نعرض الدار في الموقع مع زر يوديك لموقعها، بدون سحب
+#
+# قبل ما تغيّر أي دار إلى auto:
+#   1) اقرأ شروط الاستخدام في موقعها بنفسك
+#   2) تأكد إن robots.txt يسمح بالصفحات اللي بتسحبها
+#   3) والأفضل: اطلب منهم موافقة أو مصدر بيانات رسمي
+
+settings:
+  timezone: Asia/Riyadh
+  # الأوقات قبل هالساعة تُحسب لليوم التالي (عرض 1:00 ص تابع لليلة اليوم)
+  business_day_cutoff_hour: 5
+  # ثواني انتظار بين كل طلب وطلب عشان ما نضغط على مواقعهم
+  request_delay_seconds: 3
+  # عرّف نفسك بوضوح. غيّر الإيميل لإيميلك
+  user_agent: "ShashaWahdaBot/0.1 (+https://github.com/YOUR_USERNAME/shasha; contact: you@example.com)"
+  # المدن اللي نسحب لها (اتركها فاضية = كل المدن)
+  cities: [riyadh]
+
+chains:
+  vox:
+    name_ar: ڤوكس سينما
+    name_en: VOX Cinemas
+    url: https://ksa.voxcinemas.com
+    mode: auto
+    # robots.txt حق ڤوكس يسمح بـ /showtimes/<فرع> ويمنع أي رابط فيه "?"
+    # يعني نسحب مواعيد اليوم فقط (اختيار التاريخ يستخدم ?d= وهو ممنوع)
+    sitemap: https://assets.voxcinemas.com/sitemap/sitemap.SA.xml
+
+  reel:
+    name_ar: ريل سينما
+    name_en: Reel Cinemas
+    url: https://www.reelcinemas.com/ar-sa/showtime
+    # robots.txt يسمح، لكن الموقع يعرض المواعيد بـ JavaScript.
+    # فيه سحب تجريبي بـ Playwright في pipeline/scrapers/reel.py، شغّله وتأكد منه أول
+    mode: link
+    branches:
+      - {name: غرناطة مول, city: riyadh}
+
+  muvi:
+    name_ar: موفي سينما
+    name_en: muvi Cinemas
+    url: https://www.muvicinemas.com
+    mode: link   # عنده حماية ضد البوتات، لا تحاول تتجاوزها
+
+  empire:
+    name_ar: إمباير سينما
+    name_en: Empire Cinemas
+    url: https://www.empirecinemas.com.sa
+    mode: link   # robots.txt يمنع البوتات
+
+  amc:
+    name_ar: AMC سينما
+    name_en: AMC Cinemas
+    url: https://www.amccinemas.com.sa
+    mode: link   # robots.txt يمنع البوتات
+
+  # أضف باقي الدور (Scene، جراند، بلاي، سينيبوليس...) بنفس الشكل
+  # بعد ما تتأكد من روابطها الرسمية:
+  # scene:
+  #   name_ar: سين سينما
+  #   name_en: Scene Cinema
+  #   url: https://...
+  #   mode: link
