@@ -73,6 +73,18 @@ cd site && python -m http.server 8000                          # افتح http:/
 2. سجّلها في `SCRAPERS` داخل `pipeline/run.py`.
 3. أضفها في `config/sources.yaml` بـ `mode: auto`.
 
+## الملصقات والتقييمات (TMDB و IMDb)
+
+الموقع يشتغل بدونها، بس الأفلام تطلع بمربعات ملونة بدال الملصقات. عشان تفعّلها:
+
+1. **TMDB:** سجّل في themoviedb.org ← Settings ← API، وانسخ **API Key** أو **Read Access Token**.
+2. **OMDb (تقييم IMDb):** من omdbapi.com/apikey.aspx اختر FREE، ويوصلك المفتاح على الإيميل (لازم تفعّله من الرابط).
+3. في المستودع: **Settings ← Secrets and variables ← Actions ← New repository secret**، وأضف:
+   - `TMDB_API_KEY`
+   - `OMDB_API_KEY`
+
+النتائج تنحفظ في `data/movie_meta.json`، فكل فلم ينطلب مرة وحدة تقريباً، والتقييم يتحدث مرة باليوم.
+
 ## الإحصائيات والتنبيهات
 
 - **عدد الزوار:** حط سكربت Google Analytics أو [Umami](https://umami.is) في `site/index.html` مكان التعليق. بدون أي تسجيل من الزائر.

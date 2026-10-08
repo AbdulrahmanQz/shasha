@@ -44,3 +44,13 @@ def test_dubbed_version_matches_original_but_sequels_do_not():
 
 def test_arabic_normalization():
     assert clean.title_key("الْمُهِمَّة الأخيرة") == clean.title_key("المهمه الاخيره")
+
+
+def test_titles_ignore_info_buttons_and_cinema_name_from_slug():
+    shows = vox.parse_showtimes_html(FIX.read_text(encoding="utf-8"), "riyadh-park-riyadh")
+    titles = {s.movie_slug: s.movie_title for s in shows}
+    assert titles["digger"] == "Digger" and titles["verity"] == "Verity"
+    assert "Info" not in titles.values()
+    assert shows[0].cinema_name == "الرياض بارك"
+    assert vox.cinema_name_from_slug("the-spot-sheikh-jaber-riyadh") == "ذا سبوت"
+    assert vox.cinema_name_from_slug("new-branch-mall-jeddah") == "New Branch Mall"

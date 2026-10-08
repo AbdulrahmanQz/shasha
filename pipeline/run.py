@@ -15,7 +15,8 @@ from zoneinfo import ZoneInfo
 import pandas as pd
 
 from . import build, clean, match
-from .config import HISTORY_DIR, SITE_DATA, load_config
+from .config import HISTORY_DIR, ROOT, SITE_DATA, load_config
+from .enrich import Enricher
 from .http import PoliteSession
 from .scrapers import reel, vox
 
@@ -65,7 +66,8 @@ def run(only=None, fixture: Path | None = None, now: datetime | None = None,
     log.info("بعد التنظيف: %d عرض لـ %d فلم", len(tidy), tidy["movie_id"].nunique() if len(tidy) else 0)
 
     previous = build.load_previous(out_dir / "showtimes.json")
-    payload = build.build_payload(tidy, cfg, statuses, now, previous)
+    enricher = None if fixture else Enricher(ROOT / "data" / "movie_meta.json")
+    payload = build.build_payload(tidy, cfg, statuses, now, previous, enricher)
     if fixture:
         payload["sample"] = True
     path = build.write_payload(payload, out_dir)

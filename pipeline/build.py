@@ -32,8 +32,12 @@ def load_previous(path: Path) -> dict:
         return {}
 
 
+META_KEYS = ["title_ar", "title_en", "overview", "genres", "release_date", "poster", "backdrop",
+             "director", "cast", "trailer", "imdb_id", "imdb_rating", "imdb_votes"]
+
+
 def build_payload(df: pd.DataFrame, cfg: dict, statuses: dict[str, dict], now: datetime,
-                  previous: dict | None = None) -> dict:
+                  previous: dict | None = None, enricher=None) -> dict:
     chains_cfg = cfg["chains"]
     previous = previous or {}
     if previous.get("sample"):  # لا نعيد استخدام البيانات التجريبية أبداً
@@ -56,6 +60,14 @@ def build_payload(df: pd.DataFrame, cfg: dict, statuses: dict[str, dict], now: d
                 "language": next((l for l in g["language"] if l), ""),
                 "runtime": int(g["runtime_min"].dropna().iat[0]) if g["runtime_min"].notna().any() else None,
             }
+        if enricher is not None:
+            metas = enricher.enrich(movies, now)
+            for mid, meta in metas.items():
+                for k in META_KEYS:
+                    if meta.get(k) not in (None, "", []):
+                        movies[mid][k] = meta[k]
+                if not movies[mid].get("runtime") and meta.get("runtime"):
+                    movies[mid]["runtime"] = meta["runtime"]
         for (chain, slug), g in df.groupby(["chain", "cinema_slug"]):
             cid = _cinema_id(chain, slug)
             cinemas[cid] = {"id": cid, "chain": chain, "name": g["cinema_name"].iat[0],
