@@ -17,7 +17,7 @@ const store = { get(k) { try { return localStorage.getItem(k); } catch (e) { ret
 
 let DATA = null;
 const IDX = { movie: {}, cinema: {} };
-const state = { time: "any", custom: "", formats: new Set(), langs: new Set(), q: "", city: null, mvFormat: "all" };
+const state = { mode: "movie", time: "now", custom: "", formats: new Set(), langs: new Set(), q: "", city: null, cinema: "all", mvFormat: "all" };
 
 // ---------- الوقت ----------
 const parts = (ms) => { const d = new Date(ms + CONFIG.tzOffsetMin * 60000); return { y: d.getUTCFullYear(), mo: d.getUTCMonth(), d: d.getUTCDate(), h: d.getUTCHours() }; };
@@ -77,9 +77,40 @@ async function load() {
   const saved = store.get("city");
   state.city = DATA.cities.some((c) => c.id === saved) ? saved : DATA.cities[0]?.id;
   sel.value = state.city;
+  state.mode = store.get("mode") === "time" ? "time" : "movie";
+  const savedCin = store.get("cinema");
+  state.cinema = savedCin && IDX.cinema[savedCin]?.city === state.city ? savedCin : "all";
 
   buildChips();
+  setMode(state.mode, false);
   route();
+}
+
+// قائمة السينمات: كل دار وتحتها فروعها في المدينة المختارة
+function cinemaOptions(ids) {
+  const cins = DATA.cinemas.filter((c) => c.mode === "auto" && c.city === state.city && (!ids || ids.has(c.id)));
+  const byChain = {};
+  cins.forEach((c) => (byChain[c.chain] ||= []).push(c));
+  const groups = Object.entries(byChain).map(([k, list]) => `<optgroup label="${esc(DATA.chains[k]?.name || k)}">${list
+    .sort((a, b) => a.name.localeCompare(b.name, "ar")).map((c) => `<option value="${esc(c.id)}"${state.cinema === c.id ? " selected" : ""}>${esc(c.name)}</option>`).join("")}</optgroup>`).join("");
+  return `<option value="all"${state.cinema === "all" ? " selected" : ""}>كل السينمات</option>${groups}`;
+}
+function renderCinemaSelect() {
+  $("cinemaSel").innerHTML = cinemaOptions();
+  $("cinemaSel").closest(".cinema-pick").classList.toggle("on", state.cinema !== "all");
+}
+function setCinema(id) {
+  state.cinema = id;
+  store.set("cinema", id);
+  route();
+}
+function setMode(mode, rerender = true) {
+  state.mode = mode;
+  store.set("mode", mode);
+  $("tabMovie").setAttribute("aria-selected", mode === "movie");
+  $("tabTime").setAttribute("aria-selected", mode === "time");
+  $("timeRow").hidden = mode !== "time";
+  if (rerender) renderHome();
 }
 
 function buildChips() {
@@ -102,6 +133,7 @@ function renderTimeChips() {
 function showOk(s, { ignoreTime = false } = {}) {
   const c = IDX.cinema[s.c];
   if (!c || c.city !== state.city) return false;
+  if (state.cinema !== "all" && s.c !== state.cinema) return false;
   if (s.ms < Date.now() - 10 * 60000) return false;
   if (state.formats.size && !state.formats.has(s.f)) return false;
   if (state.langs.size) {
@@ -112,6 +144,7 @@ function showOk(s, { ignoreTime = false } = {}) {
 }
 function timeWindow() {
   const now = Date.now();
+  if (state.mode === "movie") return [now - 10 * 60000, Infinity];
   const key = state.custom || state.time;
   if (key === "any") return [now - 10 * 60000, Infinity];
   const t0 = key === "now" ? now : atHour(key, now);
@@ -123,7 +156,11 @@ function renderHome() {
   const [a, b] = timeWindow();
   const q = norm(state.q);
   const cityName = DATA.cities.find((c) => c.id === state.city)?.name || "";
-  $("homeTitle").textContent = `الأفلام في ${cityName} اليوم`;
+  const cin = state.cinema !== "all" ? IDX.cinema[state.cinema] : null;
+  $("homeTitle").textContent = cin ? `الأفلام في ${cin.name} اليوم` : `الأفلام في ${cityName} اليوم`;
+  renderCinemaSelect();
+  if (state.mode === "time") return renderRows(q);
+  $("rows").hidden = true; $("grid").hidden = false;
 
   const byMovie = new Map();
   for (const s of DATA.shows) {
@@ -139,7 +176,7 @@ function renderHome() {
   const branches = new Set(DATA.shows.filter((s) => showOk(s)).map((s) => s.c)).size;
   $("countText").textContent = `${plural(list.length, "فلم واحد", "فلمين", "أفلام", "فلم")} · ${plural(branches, "فرع واحد", "فرعين", "فروع", "فرع")}`;
 
-  const isAny = (state.custom || state.time) === "any" || state.time === "now";
+  const isAny = true;
   $("grid").innerHTML = list.map(({ m, next, cinemas }) => `
     <a class="card" href="#/movie/${esc(m.id)}">
       ${posterHTML(m)}
@@ -161,6 +198,38 @@ function posterHTML(m) {
   if (m.poster) return `<div class="poster"><img src="${esc(m.poster)}" alt="ملصق ${esc(titleOf(m))}" loading="lazy">${badges}</div>`;
   return `<div class="poster" style="background:${phColor(m.id)}"><div class="ph"><b>${esc(titleOf(m))}</b><i>${esc(enOf(m))}</i></div>${badges}</div>`;
 }
+// ---------- البحث بالوقت: قائمة عروض مرتبة حسب البداية ----------
+function renderRows(q) {
+  $("grid").hidden = true; $("rows").hidden = false;
+  const [a, b] = timeWindow();
+  const now = Date.now();
+  const list = DATA.shows.filter((s) => {
+    if (!showOk(s) || s.ms < a || s.ms > b) return false;
+    const m = IDX.movie[s.m];
+    return m && (!q || norm(m.title).includes(q) || norm(m.title_ar).includes(q));
+  }).sort((x, y) => x.ms - y.ms);
+  const movies = new Set(list.map((s) => s.m)).size;
+  $("countText").textContent = `${plural(list.length, "عرض واحد", "عرضين", "عروض", "عرض")} · ${plural(movies, "فلم واحد", "فلمين", "أفلام", "فلم")}`;
+  $("rows").innerHTML = list.slice(0, 120).map((s) => {
+    const m = IDX.movie[s.m], c = IDX.cinema[s.c], ch = DATA.chains[c.chain] || {};
+    const f = fmt(s.t), mins = Math.round((s.ms - now) / 60000);
+    return `<article class="row">
+      <div class="when"><b>${f.hm}</b><small>${f.ap}</small></div>
+      <a class="thumb" href="#/movie/${esc(m.id)}" tabindex="-1" aria-hidden="true">${m.poster ? `<img src="${esc(m.poster)}" alt="" loading="lazy">` : `<span style="display:block;width:100%;height:100%;background:${phColor(m.id)}"></span>`}</a>
+      <div class="what">
+        <a href="#/movie/${esc(m.id)}">${esc(titleOf(m))}</a>
+        <span class="where">${esc(c.name)} · ${esc(ch.name || "")}${mins >= 0 && mins <= 30 ? ` <span class="soon-tag">· يبدأ بعد ${mins} د</span>` : ""}</span>
+        <span class="mini-tags"><span class="fmt">${esc(EXP_AR[s.f] || s.f)}</span>${m.imdb_rating ? `<span class="imdb">IMDb ${esc(m.imdb_rating)}</span>` : ""}${m.rating ? `<span>${esc(m.rating)}</span>` : ""}${s.l || m.language ? `<span>${esc(s.l || m.language)}</span>` : ""}</span>
+      </div>
+      <a class="btn primary" href="${esc(s.u || ch.url)}" target="_blank" rel="noopener">احجز ↗</a>
+    </article>`;
+  }).join("");
+  if (!list.length) {
+    const next = DATA.shows.filter((s) => showOk(s) && s.ms > b).sort((x, y) => x.ms - y.ms)[0];
+    showEmpty("ما فيه عروض تبدأ في هالوقت", next ? `أقرب عرض بعده الساعة ${fmtTxt(next.t)}. جرّب وقت ثاني.` : "جرّب سينما ثانية أو شيل بعض الفلاتر.");
+  } else $("empty").hidden = true;
+}
+
 function showEmpty(title, body) {
   const e = $("empty");
   e.innerHTML = `<strong>${esc(title)}</strong>${esc(body)}`;
@@ -176,6 +245,11 @@ function renderMovie(id) {
 
   const shows = DATA.shows.filter((s) => s.m === id && showOk(s) && (state.mvFormat === "all" || s.f === state.mvFormat));
   const allFormats = [...new Set(DATA.shows.filter((s) => s.m === id && showOk(s)).map((s) => s.f))];
+  // الفروع اللي تعرض هالفلم (بغض النظر عن فلتر السينما) عشان القائمة
+  const saved = state.cinema; state.cinema = "all";
+  const movieCins = new Set(DATA.shows.filter((s) => s.m === id && showOk(s)).map((s) => s.c));
+  state.cinema = saved;
+  if (state.cinema !== "all") movieCins.add(state.cinema);
   const byCin = new Map();
   shows.forEach((s) => {
     if (!byCin.has(s.c)) byCin.set(s.c, new Map());
@@ -219,7 +293,13 @@ function renderMovie(id) {
 
     <section id="showtimes" style="display:flex;flex-direction:column;gap:16px">
       <div class="st-head"><h2>مواعيد اليوم في ${esc(DATA.cities.find((c) => c.id === state.city)?.name || "")}</h2><p>اضغط الوقت وتكمل الحجز في موقع الدار</p></div>
-      ${allFormats.length > 1 ? `<div class="chips" id="mvFormats">${[["all", "الكل"], ...allFormats.map((f) => [f, EXP_AR[f] || f])].map(([k, v]) => `<button type="button" class="chip" data-f="${esc(k)}" aria-pressed="${state.mvFormat === k}">${esc(v)}</button>`).join("")}</div>` : ""}
+      <div class="frow" style="justify-content:space-between">
+        ${allFormats.length > 1 ? `<div class="chips" id="mvFormats">${[["all", "الكل"], ...allFormats.map((f) => [f, EXP_AR[f] || f])].map(([k, v]) => `<button type="button" class="chip" data-f="${esc(k)}" aria-pressed="${state.mvFormat === k}">${esc(v)}</button>`).join("")}</div>` : "<span></span>"}
+        <label class="cinema-pick${state.cinema !== "all" ? " on" : ""}" for="mvCinema">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="12" rx="2"/><path d="M8 21h8"/></svg>
+          <select id="mvCinema" aria-label="السينما">${cinemaOptions(movieCins)}</select>
+        </label>
+      </div>
       ${rows.length ? `<div class="st-list">${rows.map((r) => { const ch = DATA.chains[r.c.chain] || {}; return `
         <div class="st-row">
           <div class="st-cin"><b>${esc(r.c.name)}</b><span>${esc(ch.name || "")}</span></div>
@@ -275,7 +355,13 @@ function toggleSet(container, set) {
 toggleSet($("formatChips"), state.formats);
 toggleSet($("langChips"), state.langs);
 $("q").addEventListener("input", (e) => { state.q = e.target.value; if (location.hash.startsWith("#/movie")) location.hash = "#/"; else renderHome(); });
-$("city").addEventListener("change", (e) => { state.city = e.target.value; store.set("city", state.city); route(); });
+$("city").addEventListener("change", (e) => { state.city = e.target.value; store.set("city", state.city); state.cinema = "all"; store.set("cinema", "all"); route(); });
+$("cinemaSel").addEventListener("change", (e) => setCinema(e.target.value));
+$("tabMovie").addEventListener("click", () => setMode("movie"));
+$("tabTime").addEventListener("click", () => setMode("time"));
+$("movieView").addEventListener("change", (e) => {
+  if (e.target.id === "mvCinema") { const y = window.scrollY; state.cinema = e.target.value; store.set("cinema", state.cinema); renderMovie(/^#\/movie\/([\w-]+)/.exec(location.hash)[1]); window.scrollTo(0, y); }
+});
 $("movieView").addEventListener("click", (e) => {
   const f = e.target.closest("[data-f]");
   if (f) { state.mvFormat = f.dataset.f; const y = window.scrollY; renderMovie(/^#\/movie\/([\w-]+)/.exec(location.hash)[1]); window.scrollTo(0, y); return; }

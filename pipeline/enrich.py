@@ -115,11 +115,74 @@ class Enricher:
             "imdb_votes": int(votes) if votes.isdigit() else None,
         }
 
+    # ---------- OMDb لحاله (المجاني: يكفي إيميل) ----------
+    def _omdb_full(self, title: str, year: int) -> dict | None:
+        for y in (year, year - 1, None):
+            params = {"t": title, "type": "movie", "apikey": self.omdb_key, "plot": "short"}
+            if y:
+                params["y"] = y
+            r = self.s.get("https://www.omdbapi.com/", params=params, timeout=20, headers={"Authorization": ""})
+            r.raise_for_status()
+            d = r.json()
+            time.sleep(0.1)
+            if d.get("Response") == "True":
+                break
+        else:
+            return None
+        na = lambda v: "" if not v or v == "N/A" else v
+        rt = re.match(r"(\d+)", na(d.get("Runtime")))
+        votes = na(d.get("imdbVotes")).replace(",", "")
+        genres = [GENRE_AR.get(g.strip(), g.strip()) for g in na(d.get("Genre")).split(",") if g.strip()][:3]
+        released = na(d.get("Released"))
+        try:
+            released = datetime.strptime(released, "%d %b %Y").date().isoformat() if released else ""
+        except ValueError:
+            released = ""
+        return {
+            "imdb_id": na(d.get("imdbID")),
+            "title_en": na(d.get("Title")),
+            "overview": na(d.get("Plot")),
+            "genres": genres,
+            "runtime": int(rt.group(1)) if rt else None,
+            "release_date": released,
+            "poster": na(d.get("Poster")).replace("._V1_SX300", "._V1_SX600"),
+            "director": na(d.get("Director")).split(",")[0].strip(),
+            "cast": [a.strip() for a in na(d.get("Actors")).split(",") if a.strip()][:4],
+            "imdb_rating": na(d.get("imdbRating")),
+            "imdb_votes": int(votes) if votes.isdigit() else None,
+            # إعلان بدون أي API: رابط بحث يوتيوب
+            "trailer": "https://www.youtube.com/results?search_query=" + requests.utils.quote(f"{d.get('Title', title)} {d.get('Year', '')} trailer"),
+        }
+
+    def _enrich_omdb_only(self, movies: dict[str, dict], now: datetime) -> dict[str, dict]:
+        out = {}
+        for mid, m in movies.items():
+            key = _norm(m["title"])
+            c = self.cache.get(key, {})
+            try:
+                fetched = _ts(c.get("omdb_at"))
+                ttl = MISS_TTL if c.get("missing") else OMDB_TTL
+                if not fetched or now - fetched > ttl:
+                    hit = self._omdb_full(m["title"], now.year)
+                    c = {**c, **hit, "missing": False} if hit else {**c, "missing": True}
+                    if not hit:
+                        log.info("OMDb: ما لقينا %s", m["title"])
+                    c["omdb_at"] = now.isoformat()
+            except requests.RequestException as e:
+                log.warning("OMDb فشل لـ %s: %s", m["title"], e)
+            self.cache[key] = c
+            out[mid] = c
+        self.save()
+        return out
+
     # ---------- الواجهة ----------
     def enrich(self, movies: dict[str, dict], now: datetime) -> dict[str, dict]:
-        """movies: {movie_id: {"title": ..., ...}} ← يرجع {movie_id: meta}"""
+        """movies: {movie_id: {"title": ..., ...}} ← يرجع {movie_id: meta}
+        الأولوية: TMDB لو مفتاحه موجود (عربي + ملصقات أوضح)، وإلا OMDb لحاله."""
         if not self.tmdb_key:
-            log.info("TMDB_API_KEY غير موجود: تم تخطي الملصقات والتفاصيل")
+            if self.omdb_key:
+                return self._enrich_omdb_only(movies, now)
+            log.info("ما فيه مفاتيح TMDB ولا OMDb: تم تخطي الملصقات والتفاصيل")
             return {mid: self.cache.get(_norm(m["title"]), {}) for mid, m in movies.items()}
         out = {}
         for mid, m in movies.items():
@@ -154,6 +217,15 @@ class Enricher:
     def save(self):
         self.cache_path.parent.mkdir(parents=True, exist_ok=True)
         self.cache_path.write_text(json.dumps(self.cache, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+GENRE_AR = {
+    "Action": "أكشن", "Adventure": "مغامرة", "Animation": "أنميشن", "Biography": "سيرة", "Comedy": "كوميدي",
+    "Crime": "جريمة", "Documentary": "وثائقي", "Drama": "دراما", "Family": "عائلي", "Fantasy": "فانتازيا",
+    "History": "تاريخي", "Horror": "رعب", "Music": "موسيقى", "Musical": "موسيقي", "Mystery": "غموض",
+    "Romance": "رومانسي", "Sci-Fi": "خيال علمي", "Sport": "رياضة", "Thriller": "إثارة", "War": "حرب",
+    "Western": "غرب أمريكي",
+}
 
 
 def _norm(s: str) -> str:
