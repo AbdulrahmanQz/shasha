@@ -26,6 +26,7 @@ img{max-width:100%;display:block}
 .skip{position:absolute;inset-inline-start:-999px;top:8px;background:var(--dusk);color:var(--night-2);padding:8px 14px;border-radius:8px;z-index:50}
 .skip:focus{inset-inline-start:8px}
 .loading{padding-block:80px;color:var(--muted);text-align:center}
+.visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 
 /* ---------- الهيدر ---------- */
 .top{position:sticky;top:0;z-index:20;background:rgba(17,21,31,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
@@ -69,18 +70,18 @@ main{flex:1;display:flex;flex-direction:column;outline:0}
 .fresh.ok::before{background:var(--ok)} .fresh.stale::before{background:var(--warn)}
 
 /* ---------- البلبورد ---------- */
-.billboard{position:relative;overflow:hidden;isolation:isolate;min-height:clamp(440px,66vh,620px);display:flex;align-items:flex-end;border-bottom:1px solid var(--line)}
+.billboard{position:relative;overflow:hidden;isolation:isolate;min-height:clamp(340px,46vh,450px);display:flex;align-items:flex-end;border-bottom:1px solid var(--line)}
 .bb-bg{position:absolute;inset:0;z-index:-2;background-size:cover;background-position:center 25%}
 .bb-bg.soft{filter:blur(30px) saturate(1.15);transform:scale(1.2);opacity:.7}
 .billboard::before{content:"";position:absolute;inset:0;z-index:-1;background:
   linear-gradient(0deg,var(--night) 0%,rgba(17,21,31,.85) 24%,rgba(17,21,31,.2) 62%,rgba(17,21,31,.6) 100%),
   linear-gradient(270deg,rgba(17,21,31,.92) 0%,rgba(17,21,31,.5) 45%,rgba(17,21,31,0) 78%)}
-.bb-in{display:flex;gap:36px;align-items:flex-end;padding-block:64px 48px;width:100%}
-.bb-poster{flex:0 0 210px;border-radius:12px;overflow:hidden;box-shadow:0 24px 50px rgba(0,0,0,.55);display:block}
+.bb-in{display:flex;gap:32px;align-items:flex-end;padding-block:36px 40px;width:100%}
+.bb-poster{flex:0 0 164px;border-radius:12px;overflow:hidden;box-shadow:0 24px 50px rgba(0,0,0,.55);display:block}
 .bb-poster .badge-imdb,.bb-poster .badge-age{display:none}
-.bb-txt{flex:1 1 auto;min-width:0;max-width:660px;display:flex;flex-direction:column;gap:16px}
-.bb-txt h2{margin:0;font-family:var(--f-display);font-weight:700;font-size:clamp(36px,5.6vw,64px);line-height:1.1;text-wrap:balance;text-shadow:0 2px 24px rgba(0,0,0,.4)}
-.bb-txt p{margin:0;color:#D2D6E2;font-size:16px;line-height:1.85;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.bb-txt{flex:1 1 auto;min-width:0;max-width:640px;display:flex;flex-direction:column;gap:12px}
+.bb-txt h2{margin:0;font-family:var(--f-display);font-weight:700;font-size:clamp(30px,4.2vw,48px);line-height:1.1;text-wrap:balance;text-shadow:0 2px 24px rgba(0,0,0,.4)}
+.bb-txt p{margin:0;color:#D2D6E2;font-size:15px;line-height:1.8;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .bb-next{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:14px;color:var(--ink-2)}
 .bb-next .time{min-width:70px;min-height:44px;font-size:15px;background:rgba(24,29,42,.75);backdrop-filter:blur(6px)}
 .bb-dots{position:absolute;bottom:20px;left:clamp(16px,3vw,32px);display:flex;gap:6px}
@@ -300,6 +301,13 @@ main{flex:1;display:flex;flex-direction:column;outline:0}
 .links-row{display:flex;flex-wrap:wrap;gap:8px}
 .links-row a{border:1px solid var(--line-2);border-radius:10px;padding:8px 14px;text-decoration:none;color:var(--ink);font-size:14px}
 .links-row a::after{content:" ↗";color:var(--muted)}
+
+/* ---------- صفحة نصية (الخصوصية) ---------- */
+.prose{display:flex;flex-direction:column;gap:22px;max-width:760px}
+.prose section{border:1px solid var(--line);border-radius:14px;padding:20px 22px;background:var(--surface-2)}
+.prose h2{margin:0 0 8px;font-family:var(--f-head);font-weight:600;font-size:18px}
+.prose p,.prose li{margin:0;color:var(--ink-2);line-height:1.9}
+.prose ul{margin:6px 0 0;padding-inline-start:20px}
 
 /* ---------- الفوتر ---------- */
 .foot{border-top:1px solid var(--line);background:var(--night-2);color:var(--muted);font-size:14px}

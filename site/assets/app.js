@@ -2,7 +2,7 @@
 // الصفحات: #/  #/movies  #/times  #/cinemas  #/cinema/<id>  #/movie/<id>  #/about
 "use strict";
 
-const CONFIG = { tzOffsetMin: 180, cutoffHour: 5, windowMin: 90, quickHours: [17, 18, 19, 20, 21, 22, 23, 0] };
+const CONFIG = { tzOffsetMin: 180, cutoffHour: 5, windowMin: 90, quickHours: [17, 18, 19, 20, 21, 22, 23, 0], contact: "cinemap.app@gmail.com" };
 const EXP_AR = { Standard: "عادي", Kids: "أطفال", Premium: "بريميوم", Theatre: "ثياتر", VIP: "VIP", IMAX: "IMAX", MAX: "MAX", "4DX": "4DX", ScreenX: "ScreenX", Dolby: "Dolby" };
 const PH_COLORS = ["#2A3150", "#283A4A", "#3A3150", "#2F3B45", "#33304A", "#253447"];
 
@@ -375,7 +375,7 @@ const FAQ = [
   ["عرض الساعة 12:30 بالليل، يتبع أي يوم؟", "العروض اللي بعد منتصف الليل تطلع مع عروض الليلة نفسها، مثل ما تعرضها الدور."],
   ["وش يعني التصنيف العمري مثل PG12 و R15؟", "هو تصنيف الهيئة العامة للإعلام المرئي والمسموع. G للجميع. PG بإشراف الأهل. PG12 و PG15 ينصح بمرافقة الأهل لمن هم أقل من هالعمر. R12 و R15 و R18 ما يسمح بالدخول لمن هم أقل من العمر المذكور، والدار ممكن تطلب الهوية."],
   ["من وين تجي التقييمات ومعلومات الأفلام؟", "تقييم IMDb والملصقات ومعلومات الأفلام من خدمة OMDb، والمواعيد من مواقع الدور. التقييم يتحدث مرة باليوم."],
-  ["هل تحفظون أي بيانات عني؟", "ما فيه حسابات ولا تسجيل. المدينة والسينما اللي تختارها تنحفظ في متصفحك بس، عشان ما تحتاج تختارها كل مرة."],
+  ["هل تحفظون أي بيانات عني؟", "لا. ما فيه حسابات ولا تسجيل، ونقيس بس عدد الزيارات بشكل عام. المدينة والسينما اللي تختارها تنحفظ في متصفحك بس، عشان ما تحتاج تختارها كل مرة."],
 ];
 const faqItem = ([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`;
 
@@ -394,6 +394,11 @@ function pageAbout() {
     <section class="two-col faq" id="faq">
       ${secHead("عندك سؤال؟", "الأسئلة", "الشائعة")}
       <div class="faq-list">${FAQ.map(faqItem).join("")}</div>
+    </section>
+    <section class="two-col">
+      ${secHead("تواصل معنا", "عندك", "ملاحظة؟")}
+      <div class="faq-list"><p style="margin:0;color:var(--ink-2);line-height:1.9">لقيت موعد غلط، أو عندك اقتراح، أو تمثل دار سينما وتبي تتعاون معنا؟ راسلنا على
+        <a href="mailto:${CONFIG.contact}" dir="ltr">${CONFIG.contact}</a></p></div>
     </section>
   </div>`;
 }
@@ -457,6 +462,7 @@ document.addEventListener("change", (e) => {
   if (t.id === "city") { state.city = t.value; store.set("city", state.city); setCinema("all"); hero.i = 0; return go(true); }
 });
 function setCinema(id) { state.cinema = id; store.set("cinema", id); }
+
 $("searchForm").addEventListener("submit", (e) => { e.preventDefault(); $("q").blur(); });
 $("q").addEventListener("input", (e) => {
   state.q = e.target.value;
