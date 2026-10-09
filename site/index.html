@@ -11,22 +11,29 @@
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preconnect" href="https://image.tmdb.org">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@800&family=Readex+Pro:wght@400;500;600&family=Noto+Sans+Arabic:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Outfit:wght@800&family=Readex+Pro:wght@400;500;600&family=Noto+Sans+Arabic:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="assets/style.css">
 <!-- الإحصائيات: ضع سكربت Google Analytics أو Umami هنا (انظر README) -->
 </head>
 <body>
+<a class="skip" href="#view">انتقل للمحتوى</a>
 <header class="top">
   <div class="wrap top-in">
-    <a class="logo" href="#/" aria-label="Cinemap، الصفحة الرئيسية" dir="ltr">
+    <a class="logo" href="#/" aria-label="Cinemap، الرئيسية" dir="ltr">
       <span>CINE</span><svg viewBox="0 0 82 70" aria-hidden="true"><path d="M0 0H19V70H0Z" fill="#8790BF"/><path d="M19 0L41 34V58L19 24Z" fill="#545C8A"/><path d="M41 34L63 0V24L41 58Z" fill="#8790BF"/><path d="M63 0H82V70H63Z" fill="#545C8A"/></svg><span>AP</span>
     </a>
+    <nav class="nav" aria-label="الأقسام">
+      <a href="#/" data-nav="home">الرئيسية</a>
+      <a href="#/movies" data-nav="movies">الأفلام</a>
+      <a href="#/times" data-nav="times">بالوقت</a>
+      <a href="#/cinemas" data-nav="cinemas">السينمات</a>
+      <a href="#/about" data-nav="about">عن Cinemap</a>
+    </nav>
     <div class="top-tools">
-      <label class="search" for="q">
+      <form class="search" id="searchForm" role="search">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
         <input id="q" type="search" placeholder="ابحث عن فلم" autocomplete="off" aria-label="ابحث عن فلم">
-      </label>
+      </form>
       <label class="city" for="city">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
         <select id="city" aria-label="المدينة"></select>
@@ -34,65 +41,41 @@
     </div>
   </div>
 </header>
-
 <div class="sample-banner" id="sampleBanner" hidden>بيانات تجريبية. المواعيد الحقيقية تظهر بعد أول تحديث تلقائي.</div>
 
-<main class="wrap" id="app">
-  <section id="homeView">
-    <section class="hero" id="hero" hidden aria-label="فلم مميز"></section>
-    <div class="head">
-      <div>
-        <h1 id="homeTitle">الأفلام اليوم</h1>
-        <p class="meta"><span id="countText">جاري التحميل…</span> <span class="dot-sep">·</span> <span id="fresh" class="fresh">—</span></p>
-      </div>
-    </div>
-
-    <section class="filters" aria-label="الفلاتر">
-      <div class="frow mode-row">
-        <div class="tabs" role="tablist" aria-label="طريقة البحث">
-          <button type="button" role="tab" id="tabMovie" aria-selected="true">بالفلم</button>
-          <button type="button" role="tab" id="tabTime" aria-selected="false">بالوقت</button>
-        </div>
-        <label class="cinema-pick" for="cinemaSel">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="12" rx="2"/><path d="M8 21h8"/></svg>
-          <select id="cinemaSel" aria-label="السينما"></select>
-        </label>
-      </div>
-      <div class="frow" id="timeRow" hidden>
-        <span class="flabel">متى؟</span>
-        <div class="chips" id="timeChips"></div>
-        <label class="custom-time" for="customTime"><span>وقت آخر</span><input type="time" id="customTime" step="900"></label>
-      </div>
-      <div class="frow">
-        <span class="flabel">الشاشة</span>
-        <div class="chips" id="formatChips"></div>
-      </div>
-      <div class="frow">
-        <span class="flabel">اللغة</span>
-        <div class="chips" id="langChips"></div>
-      </div>
-    </section>
-
-    <div class="grid" id="grid"></div>
-    <div class="rows" id="rows" hidden></div>
-    <div class="empty" id="empty" hidden></div>
-  </section>
-
-  <section id="movieView" hidden></section>
-
-  <section class="elsewhere" id="elsewhere" aria-labelledby="elsewhereH">
-    <h2 id="elsewhereH">دور نعرض مواعيدها في مواقعها</h2>
-    <p>نشتغل على إضافة مواعيدها هنا. إلى ذاك الحين، هذي روابطها المباشرة.</p>
-    <div class="link-list" id="linkList"></div>
-  </section>
-</main>
+<main id="view" tabindex="-1"><div class="wrap loading">جاري تحميل المواعيد…</div></main>
 
 <footer class="foot">
-  <div class="wrap foot-in">
-    <span>Cinemap موقع مستقل وما له علاقة بأي دار سينما. المواعيد تتحدث كل ساعة، والحجز يتم في موقع الدار.</span>
-    <span>التقييمات من IMDb · بيانات الأفلام من TMDB</span>
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <a class="logo" href="#/" dir="ltr" aria-label="Cinemap"><span>CINE</span><svg viewBox="0 0 82 70" aria-hidden="true"><path d="M0 0H19V70H0Z" fill="#8790BF"/><path d="M19 0L41 34V58L19 24Z" fill="#545C8A"/><path d="M41 34L63 0V24L41 58Z" fill="#8790BF"/><path d="M63 0H82V70H63Z" fill="#545C8A"/></svg><span>AP</span></a>
+      <p>كل الدور. كل المواعيد. خريطة وحدة.<br>موقع مستقل وما له علاقة بأي دار سينما.</p>
+    </div>
+    <div>
+      <h3>تصفح</h3>
+      <a href="#/movies">كل الأفلام</a><a href="#/times">وش يعرض الحين؟</a><a href="#/cinemas">السينمات</a>
+    </div>
+    <div>
+      <h3>Cinemap</h3>
+      <a href="#/about">عن الموقع</a><a href="#/about#faq">الأسئلة الشائعة</a><a href="privacy.html">الخصوصية</a>
+    </div>
+    <div>
+      <h3>الدور</h3>
+      <div id="footChains"></div>
+    </div>
+  </div>
+  <div class="wrap foot-bottom">
+    <span>المواعيد تتحدث كل ساعة، والحجز يتم في موقع الدار.</span>
+    <span>التقييمات من IMDb · بيانات الأفلام من OMDb</span>
   </div>
 </footer>
+
+<nav class="tabbar" aria-label="التنقل السريع">
+  <a href="#/" data-nav="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>الرئيسية</a>
+  <a href="#/movies" data-nav="movies"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 4v16M17 4v16M3 9h4M3 15h4M17 9h4M17 15h4"/></svg>الأفلام</a>
+  <a href="#/times" data-nav="times"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>بالوقت</a>
+  <a href="#/cinemas" data-nav="cinemas"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>السينمات</a>
+</nav>
 <script src="assets/app.js"></script>
 </body>
 </html>
