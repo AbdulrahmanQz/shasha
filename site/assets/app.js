@@ -164,54 +164,32 @@ function startHero() {
 // ---------- الصفحات ----------
 function pageHome() {
   const list = entries();
-  const now = Date.now();
   const totalShows = DATA.shows.filter((s) => showOk(s)).length;
   const branches = new Set(DATA.shows.filter((s) => showOk(s)).map((s) => s.c)).size;
-  const showcase = [...list].sort((a, b) => b.n - a.n).slice(0, 4);
-  const rails = [];
-  const soon = list.filter((e) => e.next.ms - now <= 75 * 60000);
-  if (soon.length >= 2) rails.push(railHTML("يبدأ قريب", "خلال ساعة وربع", soon));
-  if (list.length >= 5) rails.push(railHTML("الأكثر عرضاً اليوم", "", [...list].sort((a, b) => b.n - a.n).slice(0, 10), true));
-  const top = list.filter((e) => parseFloat(e.m.imdb_rating) >= 6.5).sort((a, b) => parseFloat(b.m.imdb_rating) - parseFloat(a.m.imdb_rating));
-  if (top.length >= 3) rails.push(railHTML("الأعلى تقييماً", "على IMDb", top));
-  const fam = list.filter((e) => /^(G|PG)$/i.test(e.m.rating || ""));
-  if (fam.length >= 3) rails.push(railHTML("للعائلة", "مناسب لكل الأعمار", fam));
-  const gc = {}; list.forEach((e) => (e.m.genres || []).forEach((g) => (gc[g] = (gc[g] || 0) + 1)));
-  Object.entries(gc).filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).slice(0, 2).forEach(([g]) => rails.push(railHTML(g, "", list.filter((e) => (e.m.genres || []).includes(g)))));
-  const collage = list.slice(0, 12).map((e) => posterHTML(e.m)).join("");
-
-  return `${billboardHTML()}
+  return `<section class="intro">
+    <div class="wrap intro-in">
+      <span class="kicker">مواعيد السينما في السعودية</span>
+      <h1>كل أفلام السينما، في خريطة وحدة</h1>
+      <p>بدال ما تفتح موقع كل سينما لحاله، Cinemap يجمع لك الأفلام ومواعيدها من الدور في مكان واحد. اختر الفلم أو الوقت اللي يناسبك، واحجز من موقع الدار مباشرة.</p>
+      <div class="actions"><a class="btn primary" href="#/movies">تصفح الأفلام</a><a class="btn" href="#/times">وش يعرض الحين؟</a></div>
+      <div class="intro-stats">
+        <span><b>${list.length}</b> فلم اليوم</span><span><b>${totalShows}</b> عرض باقي</span><span><b>${branches}</b> فرع في ${esc(cityName())}</span><span><b>${DATA.cities.length}</b> مدينة</span>
+      </div>
+    </div>
+  </section>
   <div class="wrap page">
-    ${list.length ? `<section style="display:flex;flex-direction:column;gap:24px">
-      ${secHead(`في ${esc(cityName())} اليوم`, "يعرض", "الآن", ["#/movies", "كل الأفلام"])}
-      <div class="showcase">${showcase.map((e) => `<a class="sc-card" href="#/movie/${esc(e.m.id)}">${posterHTML(e.m)}
-        <span class="rate">${e.m.imdb_rating ? `<b>★ ${esc(e.m.imdb_rating)}</b>` : ""}<span>${esc(metaTxt(e.m))}</span></span>
-        <h3>${esc(titleOf(e.m))}</h3>${e.m.overview ? `<p>${esc(e.m.overview)}</p>` : ""}
-        <span class="card-next"><b>أقرب عرض ${fmtTxt(e.next.t)}</b> <span>· ${nShows(e.n)}</span></span></a>`).join("")}</div>
-    </section>` : emptyHTML("ما فيه عروض باقية اليوم في هالمدينة", "جرّب مدينة ثانية، أو ارجع بكرة.")}
-
-    ${rails.length ? `<section style="display:flex;flex-direction:column;gap:24px">${secHead("تصفح", "اختر على", "مزاجك")}<div class="rails">${rails.join("")}</div></section>` : ""}
-
-    <section class="why">
-      <div class="why-art" aria-hidden="true"><div class="collage">${collage}${collage}</div></div>
-      <div class="feat">
-        ${secHead("ليش Cinemap", "أكثر من", "مواعيد")}
-        <div class="feat-item"><span class="feat-ic"><svg viewBox="0 0 24 24"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3z"/><path d="M9 3v15M15 6v15"/></svg></span><div><h3>كل الدور في خريطة وحدة</h3><p>بدال ما تفتح موقع كل سينما لحاله، تشوف كل الأفلام وأوقاتها في صفحة وحدة.</p></div></div>
-        <div class="feat-item"><span class="feat-ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><h3>ابدأ من الوقت</h3><p>عندك موعد الساعة 9؟ اختر الوقت ونوريك كل اللي يعرض فيه، في كل الفروع.</p></div></div>
-        <div class="feat-item"><span class="feat-ic"><svg viewBox="0 0 24 24"><path d="M4 7h16v4a2 2 0 0 0 0 4v4H4v-4a2 2 0 0 0 0-4z"/><path d="M10 7v12"/></svg></span><div><h3>احجز من الدار مباشرة</h3><p>نوديك لصفحة الحجز الرسمية للعرض نفسه. بدون رسوم، وبدون حسابات.</p></div></div>
+    <section class="why-grid">
+      ${secHead("ليش Cinemap", "أكثر من مواعيد")}
+      <div class="feat-cards">
+        <div class="feat-card"><span class="feat-ic"><svg viewBox="0 0 24 24"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3z"/><path d="M9 3v15M15 6v15"/></svg></span><h3>كل الدور في مكان واحد</h3><p>الأفلام وأوقاتها من الدور في صفحة وحدة، بدال التنقل بين المواقع والتطبيقات.</p></div>
+        <div class="feat-card"><span class="feat-ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><h3>ابدأ من الوقت</h3><p>عندك موعد الساعة 9؟ اختر الوقت ونوريك كل الأفلام اللي تبدأ فيه، وفي أي فرع.</p></div>
+        <div class="feat-card"><span class="feat-ic"><svg viewBox="0 0 24 24"><path d="M12 3l2.6 5.6 6.1.6-4.6 4.1 1.3 6-5.4-3.1-5.4 3.1 1.3-6L3.3 9.2l6.1-.6z"/></svg></span><h3>تقييم وتفاصيل كل فلم</h3><p>تقييم IMDb، والقصة، والمدة، والتصنيف العمري، عشان تختار بدون ما تطلع من الموقع.</p></div>
+        <div class="feat-card"><span class="feat-ic"><svg viewBox="0 0 24 24"><path d="M4 7h16v4a2 2 0 0 0 0 4v4H4v-4a2 2 0 0 0 0-4z"/><path d="M10 7v12"/></svg></span><h3>احجز من الدار مباشرة</h3><p>نوديك لصفحة الحجز الرسمية للعرض نفسه. بدون رسوم، وبدون حسابات.</p></div>
       </div>
     </section>
-
-    <section class="stats" aria-label="أرقام اليوم">
-      <div class="stat"><b>${list.length}</b><span>فلم يعرض اليوم</span></div>
-      <div class="stat"><b>${totalShows}</b><span>عرض باقي اليوم</span></div>
-      <div class="stat"><b>${branches}</b><span>فرع في ${esc(cityName())}</span></div>
-      <div class="stat"><b>${DATA.cities.length}</b><span>مدينة في المملكة</span></div>
-    </section>
-
     <section class="two-col faq">
-      ${secHead("عندك سؤال؟", "الأسئلة", "الشائعة", ["#/about", "كل الأسئلة"])}
-      <div class="faq-list">${FAQ.slice(0, 4).map(faqItem).join("")}</div>
+      ${secHead("عندك سؤال؟", "الأسئلة الشائعة", "", ["#/about", "كل الأسئلة"])}
+      <div class="faq-list">${FAQ.slice(0, 5).map(faqItem).join("")}</div>
     </section>
   </div>`;
 }
@@ -224,46 +202,69 @@ function pageMovies() {
   if (state.sort === "rating") list.sort((a, b) => (parseFloat(b.m.imdb_rating) || 0) - (parseFloat(a.m.imdb_rating) || 0));
   if (state.sort === "popular") list.sort((a, b) => b.n - a.n);
   const cin = state.cinema !== "all" ? IDX.cinema[state.cinema] : null;
-  return `<div class="wrap page tight">
+  const showFeatured = !q && state.genre === "all";
+  return `${showFeatured ? billboardHTML() : ""}
+  <div class="wrap page tight">
     <div class="page-head"><span class="kicker">${q ? "نتائج البحث" : "تصفح"}</span>
-      <h1>${q ? `"${esc(state.q)}"` : `أفلام <em>${esc(cin ? cin.name : cityName())}</em>`}</h1>
+      <h1>${q ? `"${esc(state.q)}"` : `أفلام ${esc(cin ? cin.name : cityName())}`}</h1>
       <p class="meta-line">${nMovies(list.length)} اليوم · ${freshHTML()}</p></div>
     ${toolbarHTML({ genres, sort: true })}
     ${list.length ? `<div class="grid">${list.map((e) => cardHTML(e)).join("")}</div>` : emptyHTML(q ? `ما لقينا "${state.q}"` : "ما فيه أفلام بهالفلاتر", "جرّب تكتب الاسم بالإنجليزي، أو شيل بعض الفلاتر.")}
   </div>`;
 }
 
+// خيارات الوقت: الحين، ثم كل نص ساعة لين 1:30 بعد منتصف الليل
+function timeOptions() {
+  const now = Date.now(), out = [["now", "الحين"]];
+  const start = Math.ceil((now + 15 * 60000) / 1800000) * 1800000;
+  for (let t = start; t <= dayStart(now) + (25 * 60 + 30) * 60000; t += 1800000) {
+    const d = new Date(t + CONFIG.tzOffsetMin * 60000);
+    const hh = String(d.getUTCHours()).padStart(2, "0"), mm = String(d.getUTCMinutes()).padStart(2, "0");
+    out.push([`${hh}:${mm}`, fmtTxt(`T${hh}:${mm}`)]);
+  }
+  out.push(["any", "كل اللي باقي اليوم"]);
+  return out;
+}
 function timeWindow() {
-  const now = Date.now(), key = state.custom || state.time;
+  const now = Date.now(), key = state.time;
   if (key === "any") return [now - 10 * 60000, Infinity];
   const t0 = key === "now" ? now : atHour(key, now);
   return [t0 - 10 * 60000, t0 + CONFIG.windowMin * 60000];
 }
 function pageTimes() {
+  const opts = timeOptions();
+  if (!opts.some(([k]) => k === state.time)) state.time = "now";
   const [a, b] = timeWindow();
-  const now = Date.now();
-  const list = DATA.shows.filter((s) => showOk(s) && s.ms >= a && s.ms <= b && IDX.movie[s.m]).sort((x, y) => x.ms - y.ms);
-  const key = state.custom || state.time;
-  const label = key === "any" ? "الليلة" : key === "now" ? "الحين" : (() => { const f = fmt(`T${key}`); return `الساعة ${f.hm} ${f.ap}`; })();
-  let body;
-  if (list.length) {
-    body = `<div class="rows">${list.slice(0, 150).map((s) => {
-      const m = IDX.movie[s.m], c = IDX.cinema[s.c], f = fmt(s.t), mins = Math.round((s.ms - now) / 60000);
-      return `<article class="row"><div class="when"><b>${f.hm}</b><small>${f.ap}</small></div>
-        <a class="thumb" href="#/movie/${esc(m.id)}" tabindex="-1" aria-hidden="true">${m.poster ? `<img src="${esc(m.poster)}" alt="" loading="lazy">` : `<span style="display:block;width:100%;height:100%;background:${phColor(m.id)}"></span>`}</a>
-        <div class="what"><a href="#/movie/${esc(m.id)}">${esc(titleOf(m))}</a>
-          <span class="where"><a href="#/cinema/${esc(c.id)}" style="color:inherit">${esc(c.name)}</a> · ${esc(chainOf(c).name || "")}${mins >= 0 && mins <= 30 ? ` <span class="soon-tag">· يبدأ بعد ${mins} د</span>` : ""}</span>
-          <span class="mini-tags"><span class="fmt">${esc(EXP_AR[s.f] || s.f)}</span>${m.imdb_rating ? `<span class="imdb">IMDb ${esc(m.imdb_rating)}</span>` : ""}${m.rating ? `<span>${esc(m.rating)}</span>` : ""}${s.l || m.language ? `<span>${esc(s.l || m.language)}</span>` : ""}</span></div>
-        <a class="btn primary" href="${esc(s.u || chainOf(c).url)}" target="_blank" rel="noopener">احجز ↗</a></article>`;
-    }).join("")}</div>`;
-  } else {
-    const nx = DATA.shows.filter((s) => showOk(s) && s.ms > b).sort((x, y) => x.ms - y.ms)[0];
-    body = emptyHTML("ما فيه عروض تبدأ في هالوقت", nx ? `أقرب عرض بعده الساعة ${fmtTxt(nx.t)}. جرّب وقت ثاني.` : "جرّب سينما ثانية أو شيل بعض الفلاتر.");
-  }
+  const shows = DATA.shows.filter((s) => showOk(s) && s.ms >= a && s.ms <= b && IDX.movie[s.m]);
+  // فلم واحد = بطاقة وحدة، وتحته الفروع وأوقاتها
+  const byMovie = new Map();
+  shows.forEach((s) => { if (!byMovie.has(s.m)) byMovie.set(s.m, []); byMovie.get(s.m).push(s); });
+  const movies = [...byMovie.entries()].map(([id, ss]) => ({ m: IDX.movie[id], ss: ss.sort((x, y) => x.ms - y.ms) })).sort((x, y) => x.ss[0].ms - y.ss[0].ms);
+  const label = state.time === "any" ? "الليلة" : state.time === "now" ? "الحين" : `الساعة ${fmtTxt(`T${state.time}`)}`;
+  const range = state.time === "any" ? "باقي اليوم" : `تبدأ بين ${fmtTxt(new Date(a + 10 * 60000 + CONFIG.tzOffsetMin * 60000).toISOString())} و${fmtTxt(new Date(b + CONFIG.tzOffsetMin * 60000).toISOString())}`;
+  const body = movies.length ? `<div class="tm-list">${movies.map(({ m, ss }) => {
+    const byCin = new Map(); ss.forEach((s) => { if (!byCin.has(s.c)) byCin.set(s.c, []); byCin.get(s.c).push(s); });
+    return `<article class="tm-card">
+      <a class="tm-poster" href="#/movie/${esc(m.id)}" aria-label="${esc(titleOf(m))}">${posterHTML(m)}</a>
+      <div class="tm-body">
+        <div class="tm-head"><a href="#/movie/${esc(m.id)}"><h2>${esc(titleOf(m))}</h2></a>
+          <div class="mini-tags">${m.imdb_rating ? `<span class="imdb">IMDb ${esc(m.imdb_rating)}</span>` : ""}${m.rating ? `<span>${esc(m.rating)}</span>` : ""}${metaTxt(m) ? `<span>${esc(metaTxt(m))}</span>` : ""}</div></div>
+        <div class="tm-cins">${[...byCin.entries()].map(([cid, cs]) => { const c = IDX.cinema[cid]; return `<div class="tm-cin">
+          <a class="tm-cin-name" href="#/cinema/${esc(c.id)}">${esc(c.name)}<span>${esc(chainOf(c).name || "")}</span></a>
+          <div class="times">${cs.map((s) => { const f = fmt(s.t); return `<a class="time" href="${esc(s.u || chainOf(c).url)}" target="_blank" rel="noopener" aria-label="احجز ${f.hm} ${f.ap} في ${esc(c.name)}">${f.hm}<small>${f.ap} · ${esc(EXP_AR[s.f] || s.f)}</small></a>`; }).join("")}</div>
+        </div>`; }).join("")}</div>
+      </div></article>`;
+  }).join("")}</div>` : (() => { const nx = DATA.shows.filter((s) => showOk(s) && s.ms > b).sort((x, y) => x.ms - y.ms)[0];
+    return emptyHTML("ما فيه عروض تبدأ في هالوقت", nx ? `أقرب عرض بعده الساعة ${fmtTxt(nx.t)}. اختر وقت ثاني.` : "جرّب سينما ثانية أو شيل بعض الفلاتر."); })();
   return `<div class="wrap page tight">
-    <div class="page-head"><span class="kicker">ابحث بالوقت</span><h1>وش يعرض <em>${esc(label)}</em>؟</h1>
-      <p class="meta-line">${nShows(list.length)} تبدأ ${key === "any" ? "باقي اليوم" : "خلال ساعة ونص"} · ${freshHTML()}</p></div>
-    ${toolbarHTML({ times: true })}
+    <div class="page-head"><span class="kicker">ابحث بالوقت</span><h1>وش يعرض ${esc(label)}؟</h1></div>
+    <div class="time-pick">
+      <label for="timeSel">أبي أدخل السينما</label>
+      <div class="pick big"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+        <select id="timeSel">${opts.map(([k, v]) => `<option value="${k}"${k === state.time ? " selected" : ""}>${v}</option>`).join("")}</select></div>
+      <span class="meta-line">${nMovies(movies.length)} · ${nShows(shows.length)} ${range} · ${freshHTML()}</span>
+    </div>
+    ${toolbarHTML()}
     ${body}
   </div>`;
 }
@@ -420,7 +421,7 @@ function route() {
   else return; // روابط داخل الصفحة مثل #showtimes
   $("view").innerHTML = html;
   document.querySelectorAll("[data-nav]").forEach((a) => (a.dataset.nav === nav ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
-  if (nav === "home") startHero();
+  if ($("billboard")) startHero();
   footer();
 }
 function go(rerenderOnly) {
@@ -441,10 +442,9 @@ function footer() {
 
 // ---------- الأحداث (تفويض) ----------
 document.addEventListener("click", (e) => {
-  const t = e.target.closest("[data-time],[data-fmt],[data-lang],[data-genre],[data-mvf],[data-hero],[data-rail],[data-scroll],[data-fav],#filterBtn");
+  const t = e.target.closest("[data-fmt],[data-lang],[data-genre],[data-mvf],[data-hero],[data-rail],[data-scroll],[data-fav],#filterBtn");
   if (!t) return;
   if (t.id === "filterBtn") { state.filtersOpen = !state.filtersOpen; return go(true); }
-  if (t.dataset.time) { state.time = t.dataset.time; state.custom = ""; return go(true); }
   if (t.dataset.fmt) { state.formats.has(t.dataset.fmt) ? state.formats.delete(t.dataset.fmt) : state.formats.add(t.dataset.fmt); return go(true); }
   if (t.dataset.lang) { state.langs.has(t.dataset.lang) ? state.langs.delete(t.dataset.lang) : state.langs.add(t.dataset.lang); return go(true); }
   if (t.dataset.genre) { state.genre = t.dataset.genre; return go(true); }
@@ -458,7 +458,7 @@ document.addEventListener("change", (e) => {
   const t = e.target;
   if (t.id === "cinemaSel" || t.id === "mvCinema") { setCinema(t.value); return go(true); }
   if (t.id === "sortSel") { state.sort = t.value; return go(true); }
-  if (t.id === "customTime") { state.custom = t.value || ""; return go(true); }
+  if (t.id === "timeSel") { state.time = t.value; return go(true); }
   if (t.id === "city") { state.city = t.value; store.set("city", state.city); setCinema("all"); hero.i = 0; return go(true); }
 });
 function setCinema(id) { state.cinema = id; store.set("cinema", id); }
