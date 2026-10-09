@@ -32,7 +32,10 @@ CITY_ALIASES = {
     "abha": "abha", "tabuk": "tabuk", "taif": "taif", "buraidah": "qassim",
     "qassim": "qassim", "hail": "hail", "jazan": "jazan", "jizan": "jazan",
     "ahsa": "ahsa", "alahsa": "ahsa", "hofuf": "ahsa", "najran": "najran",
-    "yanbu": "yanbu", "khamis": "abha", "dhahran": "khobar",
+    "yanbu": "yanbu", "khamis": "abha", "mushait": "abha", "dhahran": "khobar",
+    "buraydah": "qassim", "unaizah": "qassim", "onaizah": "qassim", "almadinah": "madinah",
+    "arar": "arar", "sakaka": "jouf", "jouf": "jouf", "qatif": "qatif", "hafr": "hafr",
+    "albatin": "hafr", "baha": "baha", "albaha": "baha",
 }
 
 

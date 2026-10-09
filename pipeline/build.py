@@ -11,11 +11,12 @@ import pandas as pd
 log = logging.getLogger(__name__)
 
 CITY_AR = {
-    "riyadh": "الرياض", "jeddah": "جدة", "dammam": "الدمام", "khobar": "الخبر",
+    "riyadh": "الرياض", "jeddah": "جدة", "dammam": "الدمام", "khobar": "الخبر والظهران",
     "jubail": "الجبيل", "makkah": "مكة المكرمة", "madinah": "المدينة المنورة",
-    "abha": "أبها", "tabuk": "تبوك", "taif": "الطائف", "qassim": "القصيم",
+    "abha": "أبها وخميس مشيط","tabuk": "تبوك", "taif": "الطائف", "qassim": "القصيم (بريدة وعنيزة)",
     "hail": "حائل", "jazan": "جازان", "ahsa": "الأحساء", "najran": "نجران",
-    "yanbu": "ينبع", "other": "مدن أخرى",
+    "yanbu": "ينبع", "arar": "عرعر", "jouf": "الجوف", "qatif": "القطيف", "hafr": "حفر الباطن",
+    "baha": "الباحة", "other": "مدن أخرى",
 }
 HISTORY_COLS = ["scraped_at", "chain", "cinema_slug", "city", "movie_id", "title_clean",
                 "experience", "language", "rating", "start"]
@@ -101,14 +102,14 @@ def build_payload(df: pd.DataFrame, cfg: dict, statuses: dict[str, dict], now: d
     for chain, c in chains_cfg.items():
         if c.get("mode") == "auto":
             continue
-        branches = c.get("branches") or [{"name": "كل الفروع", "city": city_filter[0] if len(city_filter) == 1 else "other"}]
+        branches = c.get("branches") or [{"name": "كل الفروع", "city": city_filter[0] if len(city_filter) == 1 else "all"}]
         for i, b in enumerate(branches):
             cid = _cinema_id(chain, f"link-{i}")
             cinemas[cid] = {"id": cid, "chain": chain, "name": b["name"], "city": b["city"],
                             "mode": "link", "url": c["url"]}
 
     shows.sort(key=lambda s: s["t"])
-    used_cities = sorted({c["city"] for c in cinemas.values()},
+    used_cities = sorted({c["city"] for c in cinemas.values() if c["city"] != "all"},
                          key=lambda x: (x != "riyadh", x == "other", x))
     return {
         "generated_at": now.isoformat(timespec="seconds"),

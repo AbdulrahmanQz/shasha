@@ -159,6 +159,7 @@ function renderHome() {
   const cin = state.cinema !== "all" ? IDX.cinema[state.cinema] : null;
   $("homeTitle").textContent = cin ? `الأفلام في ${cin.name} اليوم` : `الأفلام في ${cityName} اليوم`;
   renderCinemaSelect();
+  renderHero(q);
   if (state.mode === "time") return renderRows(q);
   $("rows").hidden = true; $("grid").hidden = false;
 
@@ -198,6 +199,63 @@ function posterHTML(m) {
   if (m.poster) return `<div class="poster"><img src="${esc(m.poster)}" alt="ملصق ${esc(titleOf(m))}" loading="lazy">${badges}</div>`;
   return `<div class="poster" style="background:${phColor(m.id)}"><div class="ph"><b>${esc(titleOf(m))}</b><i>${esc(enOf(m))}</i></div>${badges}</div>`;
 }
+// ---------- الفلم المميز (أعلى الصفحة) ----------
+const hero = { list: [], i: 0, timer: null };
+function renderHero(q) {
+  const el = $("hero");
+  clearInterval(hero.timer);
+  if (state.mode !== "movie" || q) { el.hidden = true; return; }
+  const stat = new Map();
+  for (const s of DATA.shows) {
+    if (!showOk(s)) continue;
+    const e = stat.get(s.m) || { n: 0, next: [] };
+    e.n++; e.next.push(s); stat.set(s.m, e);
+  }
+  hero.list = [...stat.entries()].map(([id, e]) => {
+    const m = IDX.movie[id];
+    const r = parseFloat(m?.imdb_rating) || 6;
+    return { m, score: e.n * (r / 7) * (m?.poster ? 1.3 : 1), next: e.next.sort((a, b) => a.ms - b.ms).slice(0, 4) };
+  }).filter((x) => x.m).sort((a, b) => b.score - a.score).slice(0, 5);
+  if (!hero.list.length) { el.hidden = true; return; }
+  hero.i = Math.min(hero.i, hero.list.length - 1);
+  el.hidden = false;
+  drawHero();
+  if (hero.list.length > 1 && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    hero.timer = setInterval(() => { hero.i = (hero.i + 1) % hero.list.length; drawHero(); }, 8000);
+  }
+}
+function drawHero() {
+  const { m, next } = hero.list[hero.i];
+  const cityName = DATA.cities.find((c) => c.id === state.city)?.name || "";
+  const ch = (s) => DATA.chains[IDX.cinema[s.c]?.chain] || {};
+  $("hero").innerHTML = `
+    ${m.poster ? `<div class="hero-bg" style="background-image:url('${esc(m.poster)}')"></div>` : `<div class="hero-bg" style="background:${phColor(m.id)}"></div>`}
+    <div class="hero-in">
+      <a class="hero-poster" href="#/movie/${esc(m.id)}" aria-label="${esc(titleOf(m))}">${posterHTML(m)}</a>
+      <div class="hero-txt">
+        <span class="hero-kicker">${hero.i === 0 ? `الأكثر عرضاً اليوم في ${esc(cityName)}` : `من أبرز أفلام اليوم في ${esc(cityName)}`}</span>
+        <h2>${esc(titleOf(m))}</h2>
+        <div class="tags">
+          ${m.imdb_rating ? `<span class="imdb-mark">IMDb ${esc(m.imdb_rating)}</span>` : ""}
+          ${m.rating ? `<span class="tag age">${esc(m.rating)}</span>` : ""}
+          ${(m.genres || []).slice(0, 2).map((g) => `<span class="tag">${esc(g)}</span>`).join("")}
+          ${m.runtime ? `<span class="tag">${runtimeTxt(m.runtime)}</span>` : ""}
+        </div>
+        ${m.overview ? `<p>${esc(m.overview)}</p>` : ""}
+        <div class="hero-next"><span>أقرب العروض</span>${next.map((s) => { const f = fmt(s.t); return `<a class="time" href="${esc(s.u || ch(s).url)}" target="_blank" rel="noopener" title="${esc(IDX.cinema[s.c]?.name || "")}">${f.hm}<small>${f.ap}</small></a>`; }).join("")}</div>
+        <div class="actions">
+          <a class="btn primary" href="#/movie/${esc(m.id)}">كل المواعيد والتفاصيل</a>
+          ${m.trailer ? `<a class="btn" href="${esc(m.trailer)}" target="_blank" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4v16l13-8z"/></svg>الإعلان</a>` : ""}
+        </div>
+      </div>
+    </div>
+    ${hero.list.length > 1 ? `<div class="hero-dots">${hero.list.map((x, i) => `<button type="button" data-h="${i}" aria-label="${esc(titleOf(x.m))}" aria-current="${i === hero.i}"></button>`).join("")}</div>` : ""}`;
+}
+$("hero").addEventListener("click", (e) => {
+  const d = e.target.closest("[data-h]"); if (!d) return;
+  clearInterval(hero.timer); hero.i = +d.dataset.h; drawHero();
+});
+
 // ---------- البحث بالوقت: قائمة عروض مرتبة حسب البداية ----------
 function renderRows(q) {
   $("grid").hidden = true; $("rows").hidden = false;
@@ -260,7 +318,7 @@ function renderMovie(id) {
   const totalBranches = new Set(DATA.shows.filter((s) => s.m === id && showOk(s)).map((s) => s.c)).size;
   const totalShows = DATA.shows.filter((s) => s.m === id && showOk(s)).length;
   const now = Date.now();
-  const linkChains = [...new Set(DATA.cinemas.filter((c) => c.mode === "link" && (c.city === state.city || c.city === "other")).map((c) => c.chain))];
+  const linkChains = [...new Set(DATA.cinemas.filter((c) => c.mode === "link" && (c.city === state.city || c.city === "all")).map((c) => c.chain))];
 
   view.innerHTML = `
   <div class="mv">
@@ -315,7 +373,7 @@ function renderMovie(id) {
 const votesTxt = (n) => (n >= 1e6 ? `${(n / 1e6).toFixed(1).replace(".0", "")} مليون` : n >= 1000 ? `${Math.round(n / 1000)} ألف` : String(n));
 
 function renderLinks() {
-  const chains = [...new Set(DATA.cinemas.filter((c) => c.mode === "link" && (c.city === state.city || c.city === "other")).map((c) => c.chain))];
+  const chains = [...new Set(DATA.cinemas.filter((c) => c.mode === "link" && (c.city === state.city || c.city === "all")).map((c) => c.chain))];
   $("linkList").innerHTML = chains.map((k) => `<a href="${esc(DATA.chains[k]?.url)}" target="_blank" rel="noopener">${esc(DATA.chains[k]?.name || k)}</a>`).join("");
   $("elsewhere").hidden = !chains.length || location.hash.startsWith("#/movie");
 }
