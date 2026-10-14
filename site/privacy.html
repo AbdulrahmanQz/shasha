@@ -10,6 +10,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@700&family=Outfit:wght@800&family=Readex+Pro:wght@400;500;600&family=Noto+Sans+Arabic:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="assets/style.css">
+<script>try{var q=new URLSearchParams(location.search).get("lang"),s=localStorage.getItem("lang"),l=q||s||(/^ar/i.test(navigator.language||"ar")?"ar":"en");if(l==="en"){document.documentElement.lang="en";document.documentElement.dir="ltr";document.title="Privacy Policy | Cinemap"}}catch(e){}</script>
 </head>
 <body>
 <header class="top">
@@ -17,12 +18,13 @@
     <a class="logo" href="./#/" aria-label="Cinemap، الرئيسية" dir="ltr">
       <span>CINE</span><svg viewBox="0 0 82 70" aria-hidden="true"><path d="M0 0H19V70H0Z" fill="#8790BF"/><path d="M19 0L41 34V58L19 24Z" fill="#545C8A"/><path d="M41 34L63 0V24L41 58Z" fill="#8790BF"/><path d="M63 0H82V70H63Z" fill="#545C8A"/></svg><span>AP</span>
     </a>
-    <a class="btn" href="./#/">→ رجوع للموقع</a>
+    <a class="btn" href="./#/" data-only="ar">→ رجوع للموقع</a><a class="btn" href="./#/" data-only="en">← Back to site</a>
   </div>
 </header>
 
 <main>
   <div class="wrap page tight">
+    <div class="lang-block" data-only="ar">
     <div class="page-head">
       <span class="kicker">آخر تحديث: أكتوبر 2026</span>
       <h1>سياسة <em>الخصوصية</em></h1>
@@ -52,12 +54,42 @@
       </section>
     </div>
   </div>
+    <div class="lang-block" data-only="en">
+    <div class="page-head">
+      <span class="kicker">Last updated: October 2026</span>
+      <h1>Privacy <em>Policy</em></h1>
+      <p>Short and clear: we don't ask you for any personal data.</p>
+    </div>
+    <div class="prose">
+      <section>
+        <h2>What we collect</h2>
+        <ul>
+          <li><b>General visit statistics:</b> such as the number of visitors, pages opened and device type. Aggregated numbers that don't identify you personally.</li>
+          <li><b>In your browser only:</b> the city and cinema you choose are saved in your browser so you don't have to pick them every time. This never reaches us.</li>
+        </ul>
+        <p style="margin-top:10px">There are no accounts or sign-ups, and we never ask for your name, number or email.</p>
+      </section>
+      <section>
+        <h2>Why we collect it</h2>
+        <p>To know how many people use the site and which movies and pages matter most to them, so we can improve it.</p>
+      </section>
+      <section>
+        <h2>Who we share it with</h2>
+        <p>We don't sell or share any data with anyone. Booking and payment happen on the cinema's own site and are covered by their privacy policy.</p>
+      </section>
+      <section>
+        <h2>Contact us</h2>
+        <p>Any question about privacy or the site, email us at: <a href="mailto:cinemap.app@gmail.com">cinemap.app@gmail.com</a></p>
+      </section>
+    </div>
+    </div>
+  </div>
 </main>
 
 <footer class="foot">
   <div class="wrap foot-bottom">
-    <span>Cinemap موقع مستقل وما له علاقة بأي دار سينما.</span>
-    <a href="./#/" style="color:inherit">الرئيسية</a>
+    <span data-only="ar">Cinemap موقع مستقل وما له علاقة بأي دار سينما.</span><span data-only="en">Cinemap is an independent site, not affiliated with any cinema.</span>
+    <a href="./#/" style="color:inherit" data-only="ar">الرئيسية</a><a href="./#/" style="color:inherit" data-only="en">Home</a>
   </div>
 </footer>
 </body>
