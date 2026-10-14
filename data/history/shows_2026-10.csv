@@ -5043,3 +5043,767 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-10-14T02:18:33+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T02:15+03:00
 2026-10-14T02:18:33+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T02:30+03:00
 2026-10-14T02:18:33+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T09:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Standard,إنجليزي,G,2026-10-14T10:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T10:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T10:20+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T10:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T10:25+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,b3e5ab2c,Tad and the Magic Lamp,Kids,إنجليزي,PG,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T10:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T10:35+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T10:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T10:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T10:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Standard,إنجليزي,PG15,2026-10-14T10:45+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T10:55+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,a86db5b1,Pradhama Drishtya Kuttakkar,Standard,مالايالامي,R15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T11:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T11:05+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T11:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T11:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,eaf21bbf,The Social Reckoning,VIP,إنجليزي,PG15,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T11:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T11:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,8945cffd,Avaraachan & Sons,Standard,مالايالامي,R15,2026-10-14T11:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-10-14T11:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T11:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-14T11:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T11:45+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T11:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Standard,إنجليزي,G,2026-10-14T11:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T12:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T12:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T12:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T12:25+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T12:25+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T12:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T12:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T12:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T12:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T12:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T12:55+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Premium,إنجليزي,PG15,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T13:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T13:05+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T13:10+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T13:10+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T13:10+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T13:10+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-14T13:10+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T13:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T13:25+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Standard,إنجليزي,G,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T13:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T13:35+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T13:40+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,49a87a74,Red Flag,VIP,عربي,R15,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T13:45+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T13:55+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,IMAX,إنجليزي,R18,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T14:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T14:05+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T14:10+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T14:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T14:20+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T14:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,a86db5b1,Pradhama Drishtya Kuttakkar,Standard,مالايالامي,R15,2026-10-14T14:25+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T14:25+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T14:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T14:35+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T14:35+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T14:35+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,8945cffd,Avaraachan & Sons,Standard,مالايالامي,R15,2026-10-14T14:35+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T14:40+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T14:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T14:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T14:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T14:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T14:50+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T14:55+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Premium,إنجليزي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T15:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T15:05+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T15:10+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,IMAX,إنجليزي,R18,2026-10-14T15:10+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Standard,إنجليزي,G,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T15:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T15:20+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T15:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T15:20+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T15:25+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-14T15:25+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T15:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T15:35+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T15:35+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T15:40+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d183f98f,Digger,IMAX,إنجليزي,R15,2026-10-14T15:40+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T15:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T15:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T15:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T15:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T15:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T15:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T15:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T15:50+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T15:55+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,IMAX,إنجليزي,R18,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4530c6fa,The Florist,Standard,إنجليزي,R18,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,eaf21bbf,The Social Reckoning,VIP,إنجليزي,PG15,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T16:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T16:10+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T16:10+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T16:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T16:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,9b2d5939,SB19 Wakas at Simula: Trilogy Concert,Standard,Tagalog,PG12,2026-10-14T16:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,b3e5ab2c,Tad and the Magic Lamp,Kids,إنجليزي,PG,2026-10-14T16:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T16:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T16:25+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T16:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T16:35+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T16:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T16:40+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T16:40+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T16:40+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T16:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T16:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T16:50+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T17:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T17:05+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T17:05+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T17:15+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T17:20+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T17:20+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T17:20+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T17:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T17:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,8945cffd,Avaraachan & Sons,Standard,مالايالامي,R15,2026-10-14T17:25+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T17:25+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T17:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T17:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-14T17:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T17:40+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T17:40+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:40+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,a86db5b1,Pradhama Drishtya Kuttakkar,Standard,مالايالامي,R15,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T17:45+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T17:50+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T17:55+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,9b2d5939,SB19 Wakas at Simula: Trilogy Concert,Standard,Tagalog,PG12,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-10-14T18:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-14T18:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T18:15+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,49a87a74,Red Flag,VIP,عربي,R15,2026-10-14T18:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T18:20+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T18:20+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T18:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T18:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-14T18:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,9b2d5939,SB19 Wakas at Simula: Trilogy Concert,Standard,Tagalog,PG12,2026-10-14T18:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T18:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T18:35+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T18:40+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T18:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T18:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T18:45+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T18:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T18:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T18:50+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T18:50+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,00f5687b,Khali Balak Min Nafsik,Premium,عربي,R15,2026-10-14T18:55+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T19:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T19:05+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T19:05+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T19:05+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T19:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T19:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T19:35+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T19:35+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T19:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T19:40+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T19:40+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T19:40+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T19:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T19:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T19:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T19:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T19:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T19:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T19:50+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T19:50+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T19:55+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-14T19:55+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T20:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T20:05+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T20:05+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T20:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T20:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T20:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T20:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T20:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,8945cffd,Avaraachan & Sons,Standard,مالايالامي,R15,2026-10-14T20:25+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,eaf21bbf,The Social Reckoning,VIP,إنجليزي,PG15,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T20:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,9b2d5939,SB19 Wakas at Simula: Trilogy Concert,Standard,Tagalog,PG12,2026-10-14T20:40+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T20:40+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d183f98f,Digger,IMAX,إنجليزي,R15,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T20:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T20:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,7889857e,Toy Story 5,Kids,إنجليزي,PG,2026-10-14T20:50+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T20:55+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,00f5687b,Khali Balak Min Nafsik,Premium,عربي,R15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,a86db5b1,Pradhama Drishtya Kuttakkar,Standard,مالايالامي,R15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T21:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T21:05+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:10+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T21:10+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,028111f6,Coyote VS Acme,Kids,إنجليزي,PG,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T21:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T21:25+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T21:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T21:35+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T21:35+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T21:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T21:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T21:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T21:50+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T22:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-14T22:05+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T22:10+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T22:10+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T22:10+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-14T22:10+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T22:10+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T22:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T22:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T22:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T22:25+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,956fbba3,The Smurfs Timeless Adventure Volume 2,Kids,إنجليزي,G,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-14T22:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,30e137c5,Aks Sir,Standard,عربي,R15,2026-10-14T22:35+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T22:40+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T22:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,969b2388,Always Lalisa,Standard,,,2026-10-14T22:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,50bc5058,Heart of the Beast,VIP,إنجليزي,PG15,2026-10-14T22:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T22:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T22:50+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,99f28a34,Resident Evil,Theatre,إنجليزي,R18,2026-10-14T22:50+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,49a87a74,Red Flag,VIP,عربي,R15,2026-10-14T22:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T22:50+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,f3263483,Street Fighter,Theatre,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-14T23:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-14T23:05+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T23:05+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,70dee156,Whalefall,Theatre,إنجليزي,PG15,2026-10-14T23:05+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-14T23:10+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-14T23:10+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:10+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-14T23:15+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T23:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-14T23:20+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:20+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,7889857e,Toy Story 5,Kids,عربي,PG,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,f3263483,Street Fighter,IMAX,إنجليزي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T23:35+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T23:40+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-14T23:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-14T23:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-14T23:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:45+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-14T23:50+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-14T23:50+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-14T23:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-14T23:55+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-15T00:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-15T00:05+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,a86db5b1,Pradhama Drishtya Kuttakkar,Standard,مالايالامي,R15,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,f3263483,Street Fighter,Premium,إنجليزي,PG15,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-15T00:15+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T00:20+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-15T00:20+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T00:20+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T00:20+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,f3263483,Street Fighter,Theatre,إنجليزي,PG15,2026-10-15T00:20+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T00:25+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Premium,إنجليزي,PG15,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T00:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,f3263483,Street Fighter,VIP,إنجليزي,PG15,2026-10-15T00:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T00:40+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T00:45+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T00:45+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T00:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T00:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T00:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-15T00:50+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,70dee156,Whalefall,Theatre,إنجليزي,PG15,2026-10-15T00:50+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,70dee156,Whalefall,VIP,إنجليزي,PG15,2026-10-15T00:50+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T00:55+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T00:55+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,f3263483,Street Fighter,IMAX,إنجليزي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d183f98f,Digger,Premium,إنجليزي,R15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,f3263483,Street Fighter,VIP,إنجليزي,PG15,2026-10-15T01:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T01:05+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T01:10+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,50bc5058,Heart of the Beast,Theatre,إنجليزي,PG15,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,70dee156,Whalefall,VIP,إنجليزي,PG15,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Theatre,عربي,PG15,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T01:15+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T01:20+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Standard,إنجليزي,PG12,2026-10-15T01:20+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T01:25+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,f3263483,Street Fighter,Theatre,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,50bc5058,Heart of the Beast,Premium,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,f3263483,Street Fighter,VIP,إنجليزي,PG15,2026-10-15T01:30+03:00
+2026-10-14T07:59:08+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T01:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T01:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-15T01:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T01:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:40+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T01:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T01:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T01:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:50+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T01:50+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T01:50+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T01:55+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d183f98f,Digger,VIP,إنجليزي,R15,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,f3263483,Street Fighter,IMAX,إنجليزي,PG15,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:00+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,eaf21bbf,The Social Reckoning,Standard,إنجليزي,PG15,2026-10-15T02:10+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,7404d161,Beware Boiuna,Standard,إنجليزي,R18,2026-10-15T02:10+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:10+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:15+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:15+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T02:25+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,c4436b46,Avengers Endgame: Encore,Premium,إنجليزي,PG12,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,century-corner-riyadh,riyadh,1c461d54,Other Mommy,Theatre,إنجليزي,R18,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1b36f78e,Jailer 2,Standard,تاميلي,R18,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,fad8f655,Drishyam: The Conclusion,Standard,هندي,PG12,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-10-15T02:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,49a87a74,Red Flag,Standard,عربي,R15,2026-10-15T02:35+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,f3263483,Street Fighter,Premium,إنجليزي,PG15,2026-10-15T02:40+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d183f98f,Digger,Standard,إنجليزي,R15,2026-10-15T02:40+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,99f28a34,Resident Evil,VIP,إنجليزي,R18,2026-10-15T02:40+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,The Beast,Standard,إنجليزي,R18,2026-10-15T02:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T02:50+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,MAX,عربي,PG15,2026-10-15T02:50+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T02:55+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Premium,إنجليزي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,1b36f78e,Jailer 2,MAX,تاميلي,R18,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T03:00+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,70dee156,Whalefall,VIP,إنجليزي,PG15,2026-10-15T03:05+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,VIP,إنجليزي,R18,2026-10-15T03:05+03:00
+2026-10-14T07:59:08+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T03:15+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T03:15+03:00
+2026-10-14T07:59:08+03:00,vox,via-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T03:20+03:00
+2026-10-14T07:59:08+03:00,vox,kingdom-centre-riyadh,riyadh,49a87a74,Red Flag,VIP,عربي,R15,2026-10-15T03:25+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,VIP,عربي,PG15,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T03:30+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T03:35+03:00
+2026-10-14T07:59:08+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-10-15T03:40+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,1c461d54,Other Mommy,Standard,إنجليزي,R18,2026-10-15T03:45+03:00
+2026-10-14T07:59:08+03:00,vox,the-roof-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T03:45+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-10-15T03:45+03:00
+2026-10-14T07:59:08+03:00,vox,sahara-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-10-15T03:55+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-10-15T03:55+03:00
+2026-10-14T07:59:08+03:00,vox,roshn-front-riyadh,riyadh,f3263483,Street Fighter,Standard,إنجليزي,PG15,2026-10-15T03:55+03:00

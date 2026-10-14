@@ -71,7 +71,7 @@
   "imdb_votes": 477953,
   "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-12T23:19:18.558640+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "aks sir": {
   "missing": true,
@@ -122,7 +122,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=The%20Florist%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-12T13:57:46.214481+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "red flag": {
   "imdb_id": "tt2147048",
@@ -198,7 +198,7 @@
   "imdb_votes": 81658,
   "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%205%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-13T05:36:36.177688+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "avaraachan sons": {
   "missing": true,
@@ -229,7 +229,7 @@
  },
  "smurfs timeless adventure volume 2": {
   "missing": true,
-  "omdb_at": "2026-10-13T05:36:36.177688+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "resident evil": {
   "imdb_id": "tt35538033",
@@ -257,7 +257,7 @@
  },
  "sb19 wakas at simula trilogy concert": {
   "missing": true,
-  "omdb_at": "2026-10-13T05:36:36.177688+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "pradhama drishtya kuttakkar": {
   "missing": true,
@@ -285,7 +285,7 @@
   "imdb_votes": 184,
   "trailer": "https://www.youtube.com/results?search_query=Tad%20and%20the%20Magic%20Lamp%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-12T13:57:46.214481+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "el gawahergy": {
   "missing": true,
@@ -293,7 +293,7 @@
  },
  "avengers endgame encore": {
   "missing": true,
-  "omdb_at": "2026-10-12T23:19:18.558640+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  },
  "digger": {
   "imdb_id": "tt31450459",
@@ -371,6 +371,77 @@
  },
  "always lalisa": {
   "missing": true,
-  "omdb_at": "2026-10-12T13:57:46.214481+03:00"
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
+ },
+ "jailer 2": {
+  "imdb_id": "tt33318732",
+  "title_en": "Jailer 2",
+  "overview": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy.",
+  "genres": [
+   "أكشن",
+   "كوميدي",
+   "جريمة"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-15",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Nelson Dilipkumar",
+  "cast": [
+   "Rajinikanth",
+   "Whatsaap Mani",
+   "Hrithik Roshan"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Jailer%202%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
+ },
+ "whalefall": {
+  "imdb_id": "tt28535715",
+  "title_en": "Whalefall",
+  "overview": "Follows a scuba diver who, while looking for his father's remains, is swallowed by an 80-foot, 60-ton sperm whale and has just one hour to get out before his oxygen runs out.",
+  "genres": [
+   "مغامرة",
+   "دراما",
+   "رعب"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-15",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDZlYmQ2ZTYtODUyOC00NDg1LWE0ODItODZjMjE0ZWFiOTgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Brian Duffield",
+  "cast": [
+   "Josh Brolin",
+   "Elisabeth Shue",
+   "Emily Rudd"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Whalefall%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
+ },
+ "street fighter": {
+  "imdb_id": "tt27419420",
+  "title_en": "Street Fighter",
+  "overview": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
+  "genres": [
+   "أكشن",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-16",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Kitao Sakurai",
+  "cast": [
+   "Jason Momoa",
+   "David Dastmalchian",
+   "Noah Centineo"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-14T07:59:08.650721+03:00"
  }
 }
