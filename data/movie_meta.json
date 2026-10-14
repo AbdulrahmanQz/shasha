@@ -443,5 +443,29 @@
   "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-14T07:59:08.650721+03:00"
+ },
+ "beast": {
+  "imdb_id": "tt29256561",
+  "title_en": "The Beast",
+  "overview": "When a militia of unidentified hostiles coordinates a coup against the U.S., the president uncovers the extent of The Beast's highly classified offensive capabilities in order to save his life and America.",
+  "genres": [
+   "أكشن",
+   "دراما",
+   "إثارة"
+  ],
+  "runtime": 99,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTY5YjJmNWItZjI3ZC00MjFiLWE4OTgtY2RiYzVhZWU3ODhmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "Renny Harlin",
+  "cast": [
+   "Samuel L. Jackson",
+   "Joel Kinnaman",
+   "Guy Burnet"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Beast%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-15T02:16:48.585365+03:00"
  }
 }
