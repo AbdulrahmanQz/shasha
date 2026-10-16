@@ -495,5 +495,33 @@
  "sa3oud wainah": {
   "missing": true,
   "omdb_at": "2026-10-15T10:30:33.653747+03:00"
+ },
+ "ranabaali": {
+  "imdb_id": "tt32324552",
+  "title_en": "Ranabaali",
+  "overview": "",
+  "genres": [
+   "أكشن",
+   "دراما",
+   "تاريخي"
+  ],
+  "runtime": null,
+  "release_date": "2026-09-11",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGEzM2I2NGQtNDJlZi00Yjg5LWIxNGItMjZiNDc1NGM3NmZkXkEyXkFqcGc@._V1_SX600.jpg",
+  "director": "Rahul Sankrityan",
+  "cast": [
+   "Arnold Vosloo",
+   "Rashmika Mandanna",
+   "Vijay Deverakonda"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Ranabaali%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-16T10:15:10.906057+03:00"
+ },
+ "nayyi navelli": {
+  "missing": true,
+  "omdb_at": "2026-10-16T10:15:10.906057+03:00"
  }
 }
