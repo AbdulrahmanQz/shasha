@@ -198,7 +198,7 @@
   "imdb_votes": 81658,
   "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%205%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-19T20:31:10.056189+03:00"
+  "omdb_at": "2026-10-21T10:43:46.051282+03:00"
  },
  "avaraachan sons": {
   "missing": true,
@@ -545,5 +545,51 @@
  "falcons in africa": {
   "missing": true,
   "omdb_at": "2026-10-20T09:34:29.483609+03:00"
+ },
+ "clayface": {
+  "imdb_id": "tt34890576",
+  "title_en": "Clayface",
+  "overview": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
+  "genres": [
+   "رعب",
+   "خيال علمي",
+   "إثارة"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-23",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "James Watkins",
+  "cast": [
+   "Eddie Marsan",
+   "Max Minghella",
+   "Naomi Ackie"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Clayface%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-21T10:43:46.051282+03:00"
+ },
+ "soy": {
+  "imdb_id": "tt42886802",
+  "title_en": "Soy",
+  "overview": "",
+  "genres": [
+   "رعب"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-09",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzI0ZWY4NzctNDc2NS00MDFlLTkyNmUtMWNjYzQwOWU4ZmFhXkEyXkFqcGc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+  "director": "Maxime Alexandre",
+  "cast": [
+   "Baris Arduç",
+   "Farah Zeynep Abdullah",
+   "Erol Afsin"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Soy%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-21T10:43:46.051282+03:00"
  }
 }
