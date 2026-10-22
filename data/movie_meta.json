@@ -316,7 +316,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Digger%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-20T21:29:35.713910+03:00"
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
  },
  "matloub 3a2eleyain": {
   "missing": true,
@@ -591,5 +591,144 @@
   "trailer": "https://www.youtube.com/results?search_query=Soy%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-21T10:43:46.051282+03:00"
+ },
+ "always yours never mine": {
+  "imdb_id": "tt44112032",
+  "title_en": "Always Yours, Never Mine",
+  "overview": "For thirty years, two people keep almost finding each other—close calls, bad timing, missed chances. Now, with one last opportunity to change their story, will they finally make the choice they've always avoided?",
+  "genres": [
+   "دراما",
+   "رومانسي"
+  ],
+  "runtime": 112,
+  "release_date": "2026-09-30",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWY1ZWM3ZjMtNWZiOC00MWViLWIwYzktMDAzMjFiZjc0YTY2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Cathy Garcia-Sampana",
+  "cast": [
+   "Joshua Garcia",
+   "Julia Barretto",
+   "Chanda Romero"
+  ],
+  "imdb_rating": "7.3",
+  "imdb_votes": 13,
+  "trailer": "https://www.youtube.com/results?search_query=Always%20Yours%2C%20Never%20Mine%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "psycho": {
+  "imdb_id": "tt43742609",
+  "title_en": "Psycho",
+  "overview": "A brutal highway bandit returns after years away. An ordinary traveler becomes the sole witness, gets wrongly accused by police, and must dodge a killer while saving a captive young woman.",
+  "genres": [
+   "أكشن",
+   "جريمة",
+   "إثارة"
+  ],
+  "runtime": 85,
+  "release_date": "2026-10-08",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE2Njc0MmYtODIzZS00YzRmLWFjYjEtMTYxOTIzZWYxMjZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Sultan Amer Salmeen",
+  "cast": [
+   "Abdullah Al-Jafali",
+   "Asem Alawad",
+   "Mersal Alshamsi"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Psycho%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "titans": {
+  "imdb_id": "tt37547793",
+  "title_en": "Titans",
+  "overview": "",
+  "genres": [
+   "كوميدي",
+   "فانتازيا"
+  ],
+  "runtime": null,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTYyZGJkZTItOWFkMC00NzNmLTk3YWItYzMzNzc2YTRiYjRiXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Prince Joy",
+  "cast": [
+   "Manikandan R. Achari",
+   "Shajeer P. Basheer",
+   "Indrans"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Titans%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "treasure trekkers": {
+  "imdb_id": "tt39730506",
+  "title_en": "Treasure Trekkers",
+  "overview": "Mip, a 12-year-old adopted monkey in a cat-and-rodent world, is transported by a magical map to Empathra. He embarks on a perilous quest to uncover his origins, discovers his empathy power, and restores compassion to the land.",
+  "genres": [
+   "أنميشن"
+  ],
+  "runtime": 98,
+  "release_date": "2026-12-04",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2M4ZjllMWItNzg0MS00MTRiLWI2YTEtZDNlMmI1ZmE1ZTdmXkEyXkFqcGc@._V1_QL75_UY562_CR466,0,380,562_.jpg",
+  "director": "Kevin Munroe",
+  "cast": [
+   "Wyatt Bowen",
+   "Meredith Bull",
+   "Greg Cipes"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Treasure%20Trekkers%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "train to busan": {
+  "imdb_id": "tt5700672",
+  "title_en": "Train to Busan",
+  "overview": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+  "genres": [
+   "أكشن",
+   "رعب",
+   "إثارة"
+  ],
+  "runtime": 118,
+  "release_date": "2016-07-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA3OTM4NWQtMjU1OS00NzA2LTlhZDAtYjU2YjM5MWUxNTdiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Yeon Sang-ho",
+  "cast": [
+   "Gong Yoo",
+   "Jung Yu-mi",
+   "Ma Dong-seok"
+  ],
+  "imdb_rating": "7.6",
+  "imdb_votes": 316305,
+  "trailer": "https://www.youtube.com/results?search_query=Train%20to%20Busan%202016%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "klara and the sun": {
+  "imdb_id": "tt14371256",
+  "title_en": "Klara and the Sun",
+  "overview": "A robot girl designed to prevent loneliness tries to save a heartbroken family of humans.",
+  "genres": [
+   "دراما",
+   "خيال علمي"
+  ],
+  "runtime": null,
+  "release_date": "",
+  "poster": "",
+  "director": "Taika Waititi",
+  "cast": [
+   "Jenna Ortega",
+   "Amy Adams",
+   "Natasha Lyonne"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Klara%20and%20the%20Sun%202025%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-22T10:39:02.658094+03:00"
  }
 }
