@@ -293,7 +293,7 @@
  },
  "avengers endgame encore": {
   "missing": true,
-  "omdb_at": "2026-10-21T16:52:00.226529+03:00"
+  "omdb_at": "2026-10-23T10:36:30.371031+03:00"
  },
  "digger": {
   "imdb_id": "tt31450459",
@@ -536,7 +536,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Ranabaali%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-21T21:41:32.496390+03:00"
+  "omdb_at": "2026-10-23T10:36:30.371031+03:00"
  },
  "nayyi navelli": {
   "missing": true,
@@ -730,5 +730,67 @@
   "trailer": "https://www.youtube.com/results?search_query=Klara%20and%20the%20Sun%202025%20trailer",
   "missing": false,
   "omdb_at": "2026-10-22T10:39:02.658094+03:00"
+ },
+ "enhypen world tour blood saga": {
+  "imdb_id": "tt46658854",
+  "title_en": "ENHYPEN World Tour 'Blood Saga'",
+  "overview": "ENHYPEN's world tour 'BLOOD SAGA' brings a mesmerizing dark fantasy to life. Relive the unforgettable Seoul concert that launched the tour, featuring fierce, synchronized choreography in a spectacular stage production.",
+  "genres": [
+   "وثائقي",
+   "موسيقى"
+  ],
+  "runtime": 101,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU2ODNmZWQtZDY3NC00M2NkLThmMmUtZTBjM2QxODgzYzIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Yunjeong Kim",
+  "cast": [
+   "Enhypen"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=ENHYPEN%20World%20Tour%20%27Blood%20Saga%27%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-23T10:36:30.371031+03:00"
+ },
+ "tomorrow x together world tour act tomorrow": {
+  "imdb_id": "tt46658752",
+  "title_en": "Tomorrow X Together World Tour 'Act: Tomorrow'",
+  "overview": "Expanding their narratives as K-pop's ever-evolving artists, TOMORROW X TOGETHER's fourth world tour 'ACT : TOMORROW' builds upon the message of \"moving forward together toward a promised tomorrow.\"",
+  "genres": [
+   "وثائقي",
+   "موسيقى"
+  ],
+  "runtime": 97,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRkOGU2OTQtNDBkZi00NzQwLThhZDctNzM5MGI2NzRhYzc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Taehwa Um",
+  "cast": [
+   "TXT"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Tomorrow%20X%20Together%20World%20Tour%20%27Act%3A%20Tomorrow%27%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-23T10:36:30.371031+03:00"
+ },
+ "udumbanchola vision": {
+  "imdb_id": "tt32915949",
+  "title_en": "Udumbanchola Vision",
+  "overview": "",
+  "genres": [],
+  "runtime": null,
+  "release_date": "2026-10-21",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI1YWEyYmMtZDRlMy00OTMwLTg4ZDgtOGY3YjkxNzZmNWQ4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "Salam Bukhari",
+  "cast": [
+   "Mathew Thomas",
+   "Dileesh Pothan",
+   "Srinda"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Udumbanchola%20Vision%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-23T10:36:30.371031+03:00"
  }
 }
