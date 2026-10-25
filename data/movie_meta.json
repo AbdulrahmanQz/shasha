@@ -47,7 +47,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Other%20Mommy%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "odyssey": {
   "imdb_id": "tt33764258",
@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -170,7 +170,7 @@
   "imdb_votes": 542,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -198,7 +198,7 @@
   "imdb_votes": 81658,
   "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%205%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-23T21:24:45.925741+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "avaraachan sons": {
   "missing": true,
@@ -253,7 +253,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Resident%20Evil%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "sb19 wakas at simula trilogy concert": {
   "missing": true,
@@ -320,7 +320,7 @@
  },
  "matloub 3a2eleyain": {
   "missing": true,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "social reckoning": {
   "imdb_id": "tt37510326",
@@ -419,7 +419,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Whalefall%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "street fighter": {
   "imdb_id": "tt27419420",
@@ -441,7 +441,7 @@
   "imdb_votes": 1231,
   "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-24T03:47:40.083955+03:00"
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  },
  "beast": {
   "imdb_id": "tt29256561",
@@ -792,5 +792,30 @@
   "trailer": "https://www.youtube.com/results?search_query=Udumbanchola%20Vision%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-24T14:08:42.359189+03:00"
+ },
+ "hybe cheering party 3d": {
+  "missing": true,
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+ },
+ "bts world tour arirang in buenos aires live": {
+  "imdb_id": "tt45591705",
+  "title_en": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+  "overview": "The first-ever BTS Live Viewing broadcast from South America. Experience the BTS WORLD TOUR 'ARIRANG' in cinemas worldwide, broadcasting from Buenos Aires. Marking BTS' first-ever performance in Argentina.",
+  "genres": [
+   "وثائقي",
+   "موسيقى"
+  ],
+  "runtime": 195,
+  "release_date": "2026-10-24",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTlmMTUzY2QtMTIxMy00OTQzLThiZGItZmVjYWM3YThiM2RlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Jungjae Ha",
+  "cast": [
+   "BTS"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=BTS%20World%20Tour%20%27Arirang%27%20in%20Buenos%20Aires%3A%20Live%20Viewing%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
  }
 }
