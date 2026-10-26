@@ -47,7 +47,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Other%20Mommy%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "odyssey": {
   "imdb_id": "tt33764258",
@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -170,7 +170,7 @@
   "imdb_votes": 542,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -198,7 +198,7 @@
   "imdb_votes": 81658,
   "trailer": "https://www.youtube.com/results?search_query=Toy%20Story%205%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "avaraachan sons": {
   "missing": true,
@@ -253,7 +253,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Resident%20Evil%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "sb19 wakas at simula trilogy concert": {
   "missing": true,
@@ -320,7 +320,7 @@
  },
  "matloub 3a2eleyain": {
   "missing": true,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "social reckoning": {
   "imdb_id": "tt37510326",
@@ -419,7 +419,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Whalefall%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "street fighter": {
   "imdb_id": "tt27419420",
@@ -441,7 +441,7 @@
   "imdb_votes": 1231,
   "trailer": "https://www.youtube.com/results?search_query=Street%20Fighter%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "beast": {
   "imdb_id": "tt29256561",
@@ -795,7 +795,7 @@
  },
  "hybe cheering party 3d": {
   "missing": true,
-  "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  },
  "bts world tour arirang in buenos aires live": {
   "imdb_id": "tt45591705",
@@ -817,5 +817,26 @@
   "trailer": "https://www.youtube.com/results?search_query=BTS%20World%20Tour%20%27Arirang%27%20in%20Buenos%20Aires%3A%20Live%20Viewing%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-25T07:48:45.346687+03:00"
+ },
+ "seventeen world tour new_": {
+  "imdb_id": "tt46658626",
+  "title_en": "Seventeen World Tour (New_)",
+  "overview": "Marking a bold new era beyond their 10th anniversary, SEVENTEEN embarks on a world tour fueled by their drive for continuous reinvention, true to the title 'NEW_'. With their unrivaled stage presence and explosive energy.",
+  "genres": [
+   "وثائقي",
+   "موسيقى"
+  ],
+  "runtime": 102,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODFmMjM5MDQtYWZjMi00ZGQ1LTk4OTEtODRjZjk1N2Y0M2NkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Taehwa Um",
+  "cast": [
+   "Seventeen"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Seventeen%20World%20Tour%20%28New_%29%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-26T09:19:19.433212+03:00"
  }
 }
