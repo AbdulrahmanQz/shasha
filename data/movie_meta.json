@@ -536,7 +536,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Ranabaali%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-26T23:32:46.350534+03:00"
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
  },
  "nayyi navelli": {
   "missing": true,
@@ -568,7 +568,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Clayface%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-27T03:30:12.221646+03:00"
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
  },
  "soy": {
   "imdb_id": "tt42886802",
@@ -590,7 +590,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Soy%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-27T03:30:12.221646+03:00"
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
  },
  "always yours never mine": {
   "imdb_id": "tt44112032",
@@ -660,7 +660,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Titans%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-26T23:32:46.350534+03:00"
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
  },
  "treasure trekkers": {
   "imdb_id": "tt39730506",
@@ -838,5 +838,81 @@
   "trailer": "https://www.youtube.com/results?search_query=Seventeen%20World%20Tour%20%28New_%29%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-27T09:21:04.760793+03:00"
+ },
+ "wala kan ala el bal": {
+  "missing": true,
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+ },
+ "naseeb": {
+  "imdb_id": "tt0082797",
+  "title_en": "Naseeb",
+  "overview": "A lottery ticket changes the lives of four friends.",
+  "genres": [
+   "أكشن",
+   "موسيقي",
+   "رومانسي"
+  ],
+  "runtime": 197,
+  "release_date": "1981-05-01",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTlkNWRjNmUtOWE4Ni00YTRhLWE5MmYtM2FjNWE1YWMxYzFiXkEyXkFqcGc@._V1_SX600.jpg",
+  "director": "Manmohan Desai",
+  "cast": [
+   "Amitabh Bachchan",
+   "Shatrughan Sinha",
+   "Rishi Kapoor"
+  ],
+  "imdb_rating": "7.1",
+  "imdb_votes": 2007,
+  "trailer": "https://www.youtube.com/results?search_query=Naseeb%201981%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+ },
+ "hope": {
+  "imdb_id": "tt27369017",
+  "title_en": "Hope",
+  "overview": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
+  "genres": [
+   "أكشن",
+   "دراما",
+   "رعب"
+  ],
+  "runtime": 160,
+  "release_date": "2026-09-09",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Na Hong-jin",
+  "cast": [
+   "Hwang Jung-min",
+   "Zo In-sung",
+   "Hoyeon"
+  ],
+  "imdb_rating": "6.9",
+  "imdb_votes": 4367,
+  "trailer": "https://www.youtube.com/results?search_query=Hope%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+ },
+ "wildwood": {
+  "imdb_id": "tt2056785",
+  "title_en": "Wildwood",
+  "overview": "The adventures of Prue McKeel as she sets off to the forests outside Portland to find her kidnapped brother.",
+  "genres": [
+   "أنميشن",
+   "مغامرة",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-23",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2YyMTYwMzAtMjczYy00OWI4LTk0NjUtYzU5NDJmZjRkNDkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "Travis Knight",
+  "cast": [
+   "Peyton Elizabeth Lee",
+   "Jacob Tremblay",
+   "Carey Mulligan"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Wildwood%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
  }
 }
