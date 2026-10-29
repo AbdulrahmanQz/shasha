@@ -71,7 +71,7 @@
   "imdb_votes": 477953,
   "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-27T21:46:19.529419+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "aks sir": {
   "missing": true,
@@ -568,7 +568,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Clayface%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "soy": {
   "imdb_id": "tt42886802",
@@ -590,7 +590,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Soy%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "always yours never mine": {
   "imdb_id": "tt44112032",
@@ -682,7 +682,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Treasure%20Trekkers%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T01:59:30.630172+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "train to busan": {
   "imdb_id": "tt5700672",
@@ -841,7 +841,7 @@
  },
  "wala kan ala el bal": {
   "missing": true,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "naseeb": {
   "imdb_id": "tt0082797",
@@ -865,7 +865,7 @@
   "imdb_votes": 2007,
   "trailer": "https://www.youtube.com/results?search_query=Naseeb%201981%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "hope": {
   "imdb_id": "tt27369017",
@@ -889,7 +889,7 @@
   "imdb_votes": 4367,
   "trailer": "https://www.youtube.com/results?search_query=Hope%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  },
  "wildwood": {
   "imdb_id": "tt2056785",
@@ -913,6 +913,148 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Wildwood%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-10-28T05:20:29.921488+03:00"
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "orijinal": {
+  "imdb_id": "tt43986787",
+  "title_en": "Orijinal",
+  "overview": "Orijinal is a time-travel story that blends humour, fantasy, thriller, and emotion. At its heart is the unusual bond between two versions of the same person from different timelines.",
+  "genres": [
+   "دراما",
+   "خيال علمي"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-23",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc5MDM4MzYtMGM1MC00ZjRiLWI5NTAtMjJhNGFlYmE4N2M0XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Ramees",
+  "cast": [
+   "Sreenath Bhasi",
+   "Abhiram Radhakrishnan",
+   "Rajesh Madhavan"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Orijinal%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "how to save the immortal 2 elixir of life": {
+  "missing": true,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "mongoose": {
+  "imdb_id": "tt13611778",
+  "title_en": "The Mongoose",
+  "overview": "A highly decorated combat vet, Ryan ''Fang'' Flanagan, is fleeing a murder scene at 130 miles an hour in a Mustang Shelby Super Snake GT350",
+  "genres": [
+   "أكشن",
+   "إثارة"
+  ],
+  "runtime": 98,
+  "release_date": "2026-10-30",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBmN2E2YTQtMWE2Ni00ZjMxLWE4NGItODk2ZDZjZDU0MjdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Mark Vanselow",
+  "cast": [
+   "Liam Neeson",
+   "Marisa Tomei",
+   "Michael Chiklis"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Mongoose%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "sense and sensibility": {
+  "imdb_id": "tt13609648",
+  "title_en": "Sense and Sensibility",
+  "overview": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
+  "genres": [
+   "دراما",
+   "رومانسي"
+  ],
+  "runtime": 131,
+  "release_date": "2026-10-16",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNmM2E0OWItZWU2MC00M2I3LWEyZTQtYWIyYmZhOGEyOTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Georgia Oakley",
+  "cast": [
+   "Daisy Edgar-Jones",
+   "Esmé Creed-Miles",
+   "Caitríona Balfe"
+  ],
+  "imdb_rating": "7.2",
+  "imdb_votes": 1752,
+  "trailer": "https://www.youtube.com/results?search_query=Sense%20and%20Sensibility%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "it feeds": {
+  "imdb_id": "tt37679138",
+  "title_en": "It Feeds",
+  "overview": "Four archeology post-grads unearth and become victim to an ancient curse whilst digging up a strange set of ruins.",
+  "genres": [
+   "رعب"
+  ],
+  "runtime": 75,
+  "release_date": "2026-05-31",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmVjMzhlOGEtNmZmMC00YWRiLWEyN2MtYTM1ZDMxMzgwNTQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Dominic Ellis",
+  "cast": [
+   "Andre D&apos;Cruz",
+   "Leah Field",
+   "Dorothea Jones"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=It%20Feeds%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "dino family": {
+  "missing": true,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "influencer project": {
+  "imdb_id": "tt42643242",
+  "title_en": "The Influencer Project",
+  "overview": "An influencer travels to Copenhagen for a documentary about her online fame, but when an obsessive stalker begins tracking her movements, she must confront the terror and reclaim her power.",
+  "genres": [
+   "رعب"
+  ],
+  "runtime": 95,
+  "release_date": "2026-11-12",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NGU3N2ItZjBmNi00MDYxLTgyMTQtYzc0OWVkNjZjZTNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Mike Nybroe",
+  "cast": [
+   "Chiara King"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Influencer%20Project%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
+ },
+ "kabaddi 5": {
+  "imdb_id": "tt46657712",
+  "title_en": "Kabaddi 5 - After the Final Match",
+  "overview": "A new chapter, new dreams, and a whole new game for Kaji.",
+  "genres": [
+   "كوميدي",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-23",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY5M2IwNGUtZjdhZC00ODVlLWEyY2EtMTFkMmM1MDY1MzcwXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Ram Babu Gurung",
+  "cast": [
+   "Dayahang Rai",
+   "Bipin Karki",
+   "Rishma Gurung"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Kabaddi%205%20-%20After%20the%20Final%20Match%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-10-29T11:35:27.911462+03:00"
  }
 }
