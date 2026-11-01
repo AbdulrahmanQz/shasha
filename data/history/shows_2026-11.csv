@@ -1597,3 +1597,80 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-11-01T10:39:00+03:00,vox,atyaf-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-11-02T03:55+03:00
 2026-11-01T18:15:18+03:00,vox,century-corner-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T20:00+03:00
 2026-11-01T22:46:35+03:00,vox,century-corner-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-02T01:20+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,99f28a34,Resident Evil,IMAX,إنجليزي,R18,2026-11-01T09:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,913274a1,Treasure Trekkers,Kids,إنجليزي,PG,2026-11-01T09:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T10:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T10:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,a2db6062,Wildwood,Standard,إنجليزي,PG15,2026-11-01T10:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T10:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-01T10:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-01T10:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,bc94ed08,The Influencer Project,Standard,إنجليزي,R18,2026-11-01T10:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T10:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,8c728e68,Hope,Standard,كوري,R18,2026-11-01T10:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-01T11:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,b2413864,The Dino Family,Kids,إنجليزي,PG12,2026-11-01T11:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T12:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,61078772,How to Save the Immortal 2: Elixir of Life,Kids,إنجليزي,PG,2026-11-01T12:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T12:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T12:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-11-01T12:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T12:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,a2db6062,Wildwood,Standard,إنجليزي,PG15,2026-11-01T12:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-01T12:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,913274a1,Treasure Trekkers,Kids,إنجليزي,PG,2026-11-01T13:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,8c728e68,Hope,Standard,كوري,R18,2026-11-01T13:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-01T14:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-01T14:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T14:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T14:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T14:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,a2db6062,Wildwood,Standard,إنجليزي,PG15,2026-11-01T15:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T15:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-01T15:35+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,b2413864,The Dino Family,Kids,إنجليزي,PG12,2026-11-01T15:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T16:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,61078772,How to Save the Immortal 2: Elixir of Life,Kids,إنجليزي,PG,2026-11-01T16:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-01T16:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T16:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T17:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,a2db6062,Wildwood,Standard,إنجليزي,PG15,2026-11-01T17:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,913274a1,Treasure Trekkers,Kids,إنجليزي,PG,2026-11-01T17:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T17:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,bc94ed08,The Influencer Project,Standard,إنجليزي,R18,2026-11-01T18:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-01T18:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T18:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T19:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-01T19:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,b2413864,The Dino Family,Kids,إنجليزي,PG12,2026-11-01T19:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T20:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,a2db6062,Wildwood,Standard,إنجليزي,PG15,2026-11-01T20:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-01T20:20+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,61078772,How to Save the Immortal 2: Elixir of Life,Kids,إنجليزي,PG,2026-11-01T20:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-01T20:30+03:00
+2026-11-02T02:39:50+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-01T20:35+03:00
+2026-11-02T02:39:50+03:00,vox,via-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-01T21:05+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T21:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-11-01T21:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,913274a1,Treasure Trekkers,Kids,إنجليزي,PG,2026-11-01T21:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T22:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-01T22:45+03:00
+2026-11-02T02:39:50+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-01T23:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-01T23:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-01T23:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-01T23:20+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-01T23:30+03:00
+2026-11-02T02:39:50+03:00,vox,via-riyadh,riyadh,8c728e68,Hope,Standard,كوري,R18,2026-11-01T23:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-11-01T23:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-02T01:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-02T01:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-02T01:00+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,916aa5de,Spider-Man: Brand New Day,Kids,إنجليزي,PG15,2026-11-02T01:10+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-02T01:15+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-02T01:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Premium,عربي,PG15,2026-11-02T01:30+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,bc94ed08,The Influencer Project,Standard,إنجليزي,R18,2026-11-02T01:40+03:00
+2026-11-02T02:39:50+03:00,vox,via-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-02T01:45+03:00
+2026-11-02T02:39:50+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-02T01:45+03:00
+2026-11-02T02:39:50+03:00,vox,century-corner-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-02T02:30+03:00
+2026-11-02T02:39:50+03:00,vox,century-corner-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-02T03:00+03:00
