@@ -47,7 +47,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Other%20Mommy%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T09:15:48.459561+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "odyssey": {
   "imdb_id": "tt33764258",
@@ -71,7 +71,7 @@
   "imdb_votes": 477953,
   "trailer": "https://www.youtube.com/results?search_query=The%20Odyssey%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "aks sir": {
   "missing": true,
@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T02:39:50.495385+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -170,7 +170,7 @@
   "imdb_votes": 542,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T09:15:48.459561+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -253,7 +253,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Resident%20Evil%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T02:39:50.495385+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "sb19 wakas at simula trilogy concert": {
   "missing": true,
@@ -320,7 +320,7 @@
  },
  "matloub 3a2eleyain": {
   "missing": true,
-  "omdb_at": "2026-11-02T02:39:50.495385+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "social reckoning": {
   "imdb_id": "tt37510326",
@@ -419,7 +419,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Whalefall%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T02:39:50.495385+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "street fighter": {
   "imdb_id": "tt27419420",
@@ -489,7 +489,7 @@
   "imdb_votes": 1331,
   "trailer": "https://www.youtube.com/results?search_query=Forgotten%20Island%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-01T18:15:18.945410+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "sa3oud wainah": {
   "missing": false,
@@ -682,7 +682,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Treasure%20Trekkers%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "train to busan": {
   "imdb_id": "tt5700672",
@@ -898,22 +898,22 @@
   "genres": [
    "أنميشن",
    "مغامرة",
-   "دراما"
+   "فانتازيا"
   ],
-  "runtime": null,
+  "runtime": 130,
   "release_date": "2026-10-23",
-  "poster": "https://m.media-amazon.com/images/M/MV5BM2YyMTYwMzAtMjczYy00OWI4LTk0NjUtYzU5NDJmZjRkNDkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JjOGQ1OGMtZmUwYS00YmQ2LTllNzQtZjU2YjY1NzM2NzJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
   "director": "Travis Knight",
   "cast": [
    "Peyton Elizabeth Lee",
    "Jacob Tremblay",
    "Carey Mulligan"
   ],
-  "imdb_rating": "",
-  "imdb_votes": null,
+  "imdb_rating": "8.7",
+  "imdb_votes": 15186,
   "trailer": "https://www.youtube.com/results?search_query=Wildwood%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "orijinal": {
   "imdb_id": "tt43986787",
@@ -940,7 +940,7 @@
  },
  "how to save the immortal 2 elixir of life": {
   "missing": true,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "mongoose": {
   "imdb_id": "tt13611778",
@@ -1012,7 +1012,7 @@
  },
  "dino family": {
   "missing": true,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "influencer project": {
   "imdb_id": "tt42643242",
@@ -1032,7 +1032,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=The%20Influencer%20Project%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-01T22:46:35.719618+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "kabaddi 5": {
   "imdb_id": "tt46657712",
@@ -1055,7 +1055,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Kabaddi%205%20-%20After%20the%20Final%20Match%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-02T09:15:48.459561+03:00"
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  },
  "bts world tour arirang in são paulo live": {
   "imdb_id": "tt45591708",
@@ -1077,5 +1077,17 @@
   "trailer": "https://www.youtube.com/results?search_query=BTS%20World%20Tour%20%27Arirang%27%20in%20S%C3%A3o%20Paulo%3A%20Live%20Viewing%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-10-31T08:51:08.453297+03:00"
+ },
+ "godzilla minus zero preview screening": {
+  "missing": true,
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
+ },
+ "euff 2026 maria s silence": {
+  "missing": true,
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
+ },
+ "euff 2026 sirat": {
+  "missing": true,
+  "omdb_at": "2026-11-03T09:54:16.705355+03:00"
  }
 }
