@@ -395,7 +395,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Jailer%202%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-04T00:06:04.884303+03:00"
+  "omdb_at": "2026-11-05T02:43:44.577348+03:00"
  },
  "whalefall": {
   "imdb_id": "tt28535715",
@@ -1165,5 +1165,9 @@
   "trailer": "https://www.youtube.com/results?search_query=A%20Talent%20for%20Murder%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-11-04T21:02:05.149540+03:00"
+ },
+ "shawshank redemption re release": {
+  "missing": true,
+  "omdb_at": "2026-11-05T02:43:44.577348+03:00"
  }
 }
