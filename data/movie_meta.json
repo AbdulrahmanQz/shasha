@@ -1141,5 +1141,29 @@
  "euff 2026 hold onto me": {
   "missing": true,
   "omdb_at": "2026-11-04T12:22:03.518520+03:00"
+ },
+ "talent for murder": {
+  "imdb_id": "tt14129116",
+  "title_en": "A Talent for Murder",
+  "overview": "A mysterious young man from a New York publisher is sent to Switzerland to persuade the renowned writer Patricia Highsmith to write one final installment of the Ripley anthology.",
+  "genres": [
+   "سيرة",
+   "جريمة",
+   "دراما"
+  ],
+  "runtime": 106,
+  "release_date": "2026-11-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWI2M2I1OTItMWYwMC00N2I0LWFkMDUtNjZhNWZmYmQ0MzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Anton Corbijn",
+  "cast": [
+   "Olivia Cooke",
+   "Helen Mirren",
+   "Alden Ehrenreich"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=A%20Talent%20for%20Murder%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-04T21:02:05.149540+03:00"
  }
 }
