@@ -1169,5 +1169,87 @@
  "shawshank redemption re release": {
   "missing": true,
   "omdb_at": "2026-11-05T02:43:44.577348+03:00"
+ },
+ "euff 2026 the luminous life": {
+  "missing": true,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "albahs an fadeha": {
+  "missing": true,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "euff 2026 13 days 13 nights": {
+  "missing": true,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "draw": {
+  "imdb_id": "tt23803134",
+  "title_en": "The Draw",
+  "overview": "Alec, an awkward dreamer, works in the local avatar store where customers can design their idealised real-life persona; a symbol of the EyeLight based technological revolution that Alec emotively resists. His isolation is invaded ...",
+  "genres": [
+   "خيال علمي",
+   "إثارة"
+  ],
+  "runtime": 99,
+  "release_date": "2026-04-08",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDNiODM2OGQtOTJmNy00MzljLTgwM2QtMjY5NTRkYmMyNjRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Tom Ruddock",
+  "cast": [
+   "Ryan Gage",
+   "Sanjeev Kohli",
+   "Marie Everett"
+  ],
+  "imdb_rating": "5.6",
+  "imdb_votes": 88,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Draw%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "cycle": {
+  "imdb_id": "tt32358390",
+  "title_en": "The Cycle",
+  "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+  "genres": [
+   "جريمة",
+   "رعب",
+   "إثارة"
+  ],
+  "runtime": null,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjUzMmQzNmUtNjQzZi00MDk2LWJhMzQtMzAwMmJkYjI2NTFiXkEyXkFqcGc@._V1_QL75_UY562_CR419,0,380,562_.jpg",
+  "director": "Jordan Downey",
+  "cast": [
+   "Deborah Ann Woll",
+   "Jeffrey Donovan",
+   "Gretchen Corbett"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Cycle%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "idiots": {
+  "imdb_id": "tt6628920",
+  "title_en": "Idiots",
+  "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+  "genres": [
+   "كوميدي",
+   "جريمة"
+  ],
+  "runtime": 100,
+  "release_date": "2026-08-28",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjI0MTAxYjktMTYxMi00MzIxLWFlMGMtMDJhNjJhZGZmZGU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Macon Blair",
+  "cast": [
+   "Dave Franco",
+   "O&apos;Shea Jackson Jr.",
+   "Mason Thames"
+  ],
+  "imdb_rating": "6.2",
+  "imdb_votes": 957,
+  "trailer": "https://www.youtube.com/results?search_query=Idiots%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-05T09:55:16.322547+03:00"
  }
 }
