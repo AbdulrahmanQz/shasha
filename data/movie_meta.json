@@ -395,7 +395,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Jailer%202%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T02:43:44.577348+03:00"
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
  },
  "whalefall": {
   "imdb_id": "tt28535715",
@@ -1168,7 +1168,7 @@
  },
  "shawshank redemption re release": {
   "missing": true,
-  "omdb_at": "2026-11-05T02:43:44.577348+03:00"
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
  },
  "euff 2026 the luminous life": {
   "missing": true,
@@ -1251,5 +1251,59 @@
   "trailer": "https://www.youtube.com/results?search_query=Idiots%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-11-05T09:55:16.322547+03:00"
+ },
+ "scene": {
+  "imdb_id": "tt44147164",
+  "title_en": "The Last Scene",
+  "overview": "Selen can see other people's future. A vision leads her into an unexpected romance and a challenge. When her path crosses with Kemal, a struggle begins between love and danger. The choices she makes will affect her life and Kemal'...",
+  "genres": [
+   "رومانسي"
+  ],
+  "runtime": 96,
+  "release_date": "2026-08-28",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTBlNmM1Y2ItN2E4YS00ZGUwLTg5NzMtMzQyMDEzNjU2NDdlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "Ali Bilgin",
+  "cast": [
+   "Hilal Altinbilek",
+   "Serkan Çayoglu",
+   "Olcay Yusufoglu"
+  ],
+  "imdb_rating": "4.9",
+  "imdb_votes": 416,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Scene%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
+ },
+ "euff 2026 sentimental value": {
+  "missing": true,
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
+ },
+ "disco": {
+  "imdb_id": "tt41556146",
+  "title_en": "Boney M: Disco. Macht. Legende.",
+  "overview": "Boney M. is one of the most successful German pop acts of all time. While \"Rasputin\" has gone viral on TikTok with over 22 billion views, this documentary reveals for the first time the story behind the glamour. It offers a psycho...",
+  "genres": [
+   "وثائقي",
+   "سيرة",
+   "تاريخي"
+  ],
+  "runtime": 90,
+  "release_date": "2026-05-02",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjJhNzI1YzUtOGM4MS00NzNkLTk1ODEtNGZkNjllNmE4MDI3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+  "director": "Oliver Schwehm",
+  "cast": [
+   "Marcia Barrett",
+   "Frank Farian",
+   "Liz Mitchell"
+  ],
+  "imdb_rating": "8.4",
+  "imdb_votes": 17,
+  "trailer": "https://www.youtube.com/results?search_query=Boney%20M%3A%20Disco.%20Macht.%20Legende.%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
+ },
+ "euff 2026 the grace": {
+  "missing": true,
+  "omdb_at": "2026-11-06T05:30:48.096986+03:00"
  }
 }
