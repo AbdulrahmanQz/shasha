@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -170,7 +170,7 @@
   "imdb_votes": 542,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -253,7 +253,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Resident%20Evil%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "sb19 wakas at simula trilogy concert": {
   "missing": true,
@@ -320,7 +320,7 @@
  },
  "matloub 3a2eleyain": {
   "missing": true,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "social reckoning": {
   "imdb_id": "tt37510326",
@@ -419,7 +419,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Whalefall%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "street fighter": {
   "imdb_id": "tt27419420",
@@ -489,7 +489,7 @@
   "imdb_votes": 1331,
   "trailer": "https://www.youtube.com/results?search_query=Forgotten%20Island%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "sa3oud wainah": {
   "missing": false,
@@ -568,7 +568,7 @@
   "imdb_votes": 37372,
   "trailer": "https://www.youtube.com/results?search_query=Clayface%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "soy": {
   "imdb_id": "tt42886802",
@@ -840,8 +840,26 @@
   "omdb_at": "2026-10-29T19:12:35.624109+03:00"
  },
  "wala kan ala el bal": {
-  "missing": true,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "missing": false,
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00",
+  "imdb_id": "tt43634235",
+  "title_en": "Wala Kan Ala El Bal",
+  "overview": "A young tour guide in Luxor accepts an unusual deal from a wealthy businessman: win over his daughter and help her forget her ex. But when things don't go quite as planned, Hassan finds himself caught in a comical series of unexpe...",
+  "genres": [
+   "دراما"
+  ],
+  "runtime": 90,
+  "release_date": "2026-10-21",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjM1NmU2MWItODM1Yy00ODUzLWFmNjMtMjZjOTQwZWVmZmRmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+  "director": "Ahmed Emad",
+  "cast": [
+   "Nour Nabawy",
+   "Yasmina El-Abd",
+   "Ashraf Abdel Baky"
+  ],
+  "imdb_rating": "7.1",
+  "imdb_votes": 23,
+  "trailer": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El%20Bal%202026%20trailer"
  },
  "naseeb": {
   "imdb_id": "tt0082797",
@@ -865,7 +883,7 @@
   "imdb_votes": 2007,
   "trailer": "https://www.youtube.com/results?search_query=Naseeb%201981%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "hope": {
   "imdb_id": "tt27369017",
@@ -913,7 +931,7 @@
   "imdb_votes": 15186,
   "trailer": "https://www.youtube.com/results?search_query=Wildwood%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "orijinal": {
   "imdb_id": "tt43986787",
@@ -963,7 +981,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=The%20Mongoose%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "sense and sensibility": {
   "imdb_id": "tt13609648",
@@ -986,7 +1004,7 @@
   "imdb_votes": 1752,
   "trailer": "https://www.youtube.com/results?search_query=Sense%20and%20Sensibility%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "it feeds": {
   "imdb_id": "tt37679138",
@@ -1012,7 +1030,7 @@
  },
  "dino family": {
   "missing": true,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "influencer project": {
   "imdb_id": "tt42643242",
@@ -1112,7 +1130,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "cat in the hat": {
   "imdb_id": "tt2321555",
@@ -1123,20 +1141,20 @@
    "مغامرة",
    "كوميدي"
   ],
-  "runtime": null,
+  "runtime": 107,
   "release_date": "2026-11-06",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3NjI4MTgtNmMzMy00ZjBlLTgwMGYtMzUxNGFhOTY5YjJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJhNzk4OGMtOTlmNC00ODAxLWFkYjYtY2RhYWVmNDg5YmViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
   "director": "Alessandro Carloni",
   "cast": [
    "Bill Hader",
    "Xochitl Gomez",
    "Tiago Martinez"
   ],
-  "imdb_rating": "",
-  "imdb_votes": null,
+  "imdb_rating": "6.7",
+  "imdb_votes": 49,
   "trailer": "https://www.youtube.com/results?search_query=The%20Cat%20in%20the%20Hat%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-05T18:32:30.353022+03:00"
+  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
  },
  "euff 2026 hold onto me": {
   "missing": true,
