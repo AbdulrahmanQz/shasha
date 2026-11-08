@@ -395,7 +395,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Jailer%202%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-07T05:53:15.921076+03:00"
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
  },
  "whalefall": {
   "imdb_id": "tt28535715",
@@ -489,7 +489,7 @@
   "imdb_votes": 1331,
   "trailer": "https://www.youtube.com/results?search_query=Forgotten%20Island%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-06T21:02:01.292424+03:00"
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
  },
  "sa3oud wainah": {
   "missing": false,
@@ -1186,7 +1186,7 @@
  },
  "shawshank redemption re release": {
   "missing": true,
-  "omdb_at": "2026-11-07T05:53:15.921076+03:00"
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
  },
  "euff 2026 the luminous life": {
   "missing": true,
@@ -1290,7 +1290,7 @@
   "imdb_votes": 416,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Scene%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-07T05:53:15.921076+03:00"
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
  },
  "euff 2026 sentimental value": {
   "missing": true,
@@ -1318,7 +1318,7 @@
   "imdb_votes": 17,
   "trailer": "https://www.youtube.com/results?search_query=Boney%20M%3A%20Disco.%20Macht.%20Legende.%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-07T05:53:15.921076+03:00"
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
  },
  "euff 2026 the grace": {
   "missing": true,
@@ -1332,5 +1332,13 @@
   "missing": true,
   "omdb_at": "2026-11-07T05:53:15.921076+03:00"
  },
- "stray kids world tour run it live viewing": {}
+ "stray kids world tour run it live viewing": {},
+ "euff 2026 ciao ciao": {
+  "missing": true,
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
+ },
+ "euff 2026 listen to the land speak": {
+  "missing": true,
+  "omdb_at": "2026-11-08T10:26:57.294726+03:00"
+ }
 }
