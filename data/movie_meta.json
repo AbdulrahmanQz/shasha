@@ -170,7 +170,7 @@
   "imdb_votes": 542,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-11T18:18:08.963013+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -931,7 +931,7 @@
   "imdb_votes": 15186,
   "trailer": "https://www.youtube.com/results?search_query=Wildwood%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-11T18:18:08.963013+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "orijinal": {
   "imdb_id": "tt43986787",
@@ -1405,7 +1405,7 @@
  },
  "douaa alkarawan": {
   "missing": true,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "last temptation of becky": {
   "imdb_id": "tt40210362",
@@ -1429,7 +1429,7 @@
   "imdb_votes": 41,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Temptation%20of%20Becky%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "belkis": {
   "imdb_id": "tt41407940",
@@ -1451,7 +1451,7 @@
   "imdb_votes": 121,
   "trailer": "https://www.youtube.com/results?search_query=Kible%3A%20Bitlisli%20Belkis%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "george michael the faith tour": {
   "imdb_id": "tt40564737",
@@ -1471,11 +1471,11 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "gupi the grumpy king": {
   "missing": true,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "best pancakes in the county": {
   "imdb_id": "tt38258118",
@@ -1498,7 +1498,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Best%20Pancakes%20in%20the%20County%202027%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "remember": {
   "imdb_id": "tt44536647",
@@ -1521,7 +1521,7 @@
   "imdb_votes": 242,
   "trailer": "https://www.youtube.com/results?search_query=A%20Knight%20to%20Remember%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "les misérables": {
   "imdb_id": "tt35518109",
@@ -1545,10 +1545,32 @@
   "imdb_votes": 17,
   "trailer": "https://www.youtube.com/results?search_query=Les%20mis%C3%A9rables%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  },
  "adarsha kutumbam house no 47": {
   "missing": true,
-  "omdb_at": "2026-11-12T06:50:55.907049+03:00"
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+ },
+ "bouma": {
+  "imdb_id": "tt44878818",
+  "title_en": "Bouma 2026",
+  "overview": "Bound to an estate shrouded in tragic secrets, a struggling singer journeys to a place she barely remembers, only to find the line between her past and present blurring.",
+  "genres": [
+   "إثارة"
+  ],
+  "runtime": null,
+  "release_date": "2026-11-12",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRhMWMyZjItNDlhYy00M2E2LWEwNjgtZTc4MjFjMjJhMWQ1XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+  "director": "Rejin S. Babu",
+  "cast": [
+   "Dileesh Pothan",
+   "Sagar Surya",
+   "Vineeth"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Bouma%202026%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
  }
 }
