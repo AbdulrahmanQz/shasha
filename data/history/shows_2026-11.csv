@@ -12185,3 +12185,709 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-11-14T02:37:30+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T03:30+03:00
 2026-11-14T02:37:30+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T03:55+03:00
 2026-11-14T02:37:30+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T03:59+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T10:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T10:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T10:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T10:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T10:10+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T10:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Standard,إنجليزي,R18,2026-11-14T10:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Standard,إنجليزي,R18,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T10:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T10:35+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,VIP,ياباني,R15,2026-11-14T10:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d90d4dda,Bouma,Standard,مالايالامي,R15,2026-11-14T10:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T10:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T10:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T10:50+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Premium,إنجليزي,R18,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T11:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T11:10+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T11:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,e9a7dcbd,Adarsha Kutumbam House No: 47,Standard,تيلوغو,R18,2026-11-14T11:20+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T11:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,602f07e6,Clayface,VIP,إنجليزي,R18,2026-11-14T11:35+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T11:40+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T11:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T11:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T11:50+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-14T11:55+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T12:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T12:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-14T12:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T12:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T12:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Theatre,إنجليزي,R18,2026-11-14T12:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T12:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T12:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T12:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T12:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T12:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T12:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Standard,إنجليزي,R18,2026-11-14T12:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T12:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-11-14T12:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T12:50+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T12:55+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Premium,إنجليزي,R18,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T13:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T13:10+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T13:10+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T13:10+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Standard,إنجليزي,R18,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T13:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T13:20+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-14T13:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,عربي,PG,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Premium,إنجليزي,R18,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T13:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T13:40+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T13:40+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,987ebd3b,Sense and Sensibility,VIP,إنجليزي,PG15,2026-11-14T13:40+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T13:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T13:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T13:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T13:55+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,VIP,عربي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T14:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,602f07e6,Clayface,Premium,إنجليزي,R18,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T14:15+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-11-14T14:20+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d90d4dda,Bouma,Standard,مالايالامي,R15,2026-11-14T14:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T14:20+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T14:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T14:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Standard,إنجليزي,PG,2026-11-14T14:35+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Standard,إنجليزي,R18,2026-11-14T14:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T14:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T14:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T14:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T14:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T14:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T14:55+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T15:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T15:05+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Premium,إنجليزي,R18,2026-11-14T15:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T15:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T15:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T15:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T15:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-14T15:35+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T15:35+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T15:40+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T15:40+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T15:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,عربي,PG,2026-11-14T15:50+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-11-14T15:50+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T15:50+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T15:50+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T16:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T16:05+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,602f07e6,Clayface,VIP,إنجليزي,R18,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T16:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T16:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-14T16:20+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T16:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T16:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T16:35+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T16:40+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,VIP,ياباني,R15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T16:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T16:50+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T16:55+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-14T16:55+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,df30e985,Les Misérables,Standard,إنجليزي,R15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Standard,إنجليزي,R18,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T17:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T17:10+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,e9a7dcbd,Adarsha Kutumbam House No: 47,Standard,تيلوغو,R18,2026-11-14T17:10+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Premium,إنجليزي,R18,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T17:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T17:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-14T17:35+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T17:40+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T17:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T17:50+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T17:50+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T18:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T18:10+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T18:10+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,عربي,PG,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T18:15+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T18:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Premium,إنجليزي,R18,2026-11-14T18:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Premium,ياباني,R15,2026-11-14T18:25+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T18:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T18:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T18:35+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T18:35+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-14T18:40+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Standard,إنجليزي,PG,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,1f7b8178,Douaa Alkarawan,VIP,عربي,R18,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T18:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T18:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Standard,إنجليزي,R18,2026-11-14T18:55+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,47d80a0f,Naseeb,Standard,عربي,PG15,2026-11-14T19:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T19:10+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,8aa205df,George Michael: The Faith Tour,IMAX,إنجليزي,R15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,8aa205df,George Michael: The Faith Tour,IMAX,إنجليزي,R15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T19:20+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:20+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T19:25+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T19:25+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Premium,إنجليزي,R18,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,4116265a,Verity,VIP,إنجليزي,R18,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T19:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T19:35+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Theatre,إنجليزي,R18,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-11-14T19:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T19:50+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,987ebd3b,Sense and Sensibility,VIP,إنجليزي,PG15,2026-11-14T19:50+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T19:55+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,1f7b8178,Douaa Alkarawan,Standard,عربي,R18,2026-11-14T19:55+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Theatre,إنجليزي,R18,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T20:05+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d90d4dda,Bouma,Standard,مالايالامي,R15,2026-11-14T20:10+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T20:10+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T20:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,1f7b8178,Douaa Alkarawan,Premium,عربي,R18,2026-11-14T20:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,758d31f3,The Mongoose,Premium,إنجليزي,PG15,2026-11-14T20:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T20:20+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-14T20:20+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,1f7b8178,Douaa Alkarawan,Standard,عربي,R18,2026-11-14T20:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T20:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T20:35+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d90d4dda,Bouma,Standard,مالايالامي,R15,2026-11-14T20:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T20:40+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T20:45+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T20:50+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T20:55+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T20:55+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-14T21:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T21:10+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-14T21:10+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Standard,إنجليزي,R18,2026-11-14T21:10+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T21:10+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:15+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T21:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-14T21:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T21:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,Standard,عربي,PG15,2026-11-14T21:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T21:20+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,VIP,عربي,PG15,2026-11-14T21:20+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-14T21:25+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Premium,إنجليزي,R18,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T21:35+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T21:35+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T21:40+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,IMAX,ياباني,R15,2026-11-14T21:40+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-11-14T21:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T21:50+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,عربي,PG,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T22:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-14T22:10+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T22:10+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T22:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T22:20+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T22:25+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T22:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,79fa8678,Belkis,Standard,تركي,R18,2026-11-14T22:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-14T22:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T22:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T22:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-14T22:35+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T22:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,50bc5058,Heart of the Beast,Standard,إنجليزي,PG15,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T22:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Standard,إنجليزي,R18,2026-11-14T22:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T22:50+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,4116265a,Verity,Theatre,إنجليزي,R18,2026-11-14T22:50+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,007dd196,Wala Kan Ala El-Bal,VIP,عربي,PG15,2026-11-14T22:50+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Standard,إنجليزي,PG,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T23:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,e9a7dcbd,Adarsha Kutumbam House No: 47,Standard,تيلوغو,R18,2026-11-14T23:05+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-14T23:05+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-14T23:05+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Standard,إنجليزي,R18,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-14T23:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-14T23:20+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T23:20+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T23:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-14T23:20+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,602f07e6,Clayface,VIP,إنجليزي,R18,2026-11-14T23:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Premium,ياباني,R15,2026-11-14T23:35+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-14T23:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-14T23:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Premium,إنجليزي,R18,2026-11-14T23:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-14T23:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-14T23:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-14T23:55+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-14T23:55+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9324477b,Gupi & The Grumpy King,Kids,إنجليزي,PG,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T00:00+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-15T00:05+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T00:05+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-15T00:10+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,70dee156,Whalefall,Standard,إنجليزي,PG15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,kingdom-centre-riyadh,riyadh,758d31f3,The Mongoose,VIP,إنجليزي,PG15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T00:20+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:20+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,8d65a83d,Forgotten Island,Kids,إنجليزي,PG15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Premium,إنجليزي,R18,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-11-15T00:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-15T00:40+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T00:40+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T00:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-15T00:50+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T00:50+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T00:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-15T01:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T01:10+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-15T01:10+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,22fc7874,The Odyssey,IMAX,إنجليزي,R15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,3e67dad6,Godzilla Minus Zero,Standard,ياباني,R15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T01:15+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T01:20+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T01:25+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:25+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,99f28a34,Resident Evil,Standard,إنجليزي,R18,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,70dee156,Whalefall,Premium,إنجليزي,PG15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,65752a0c,The Last Temptation of Becky,Standard,إنجليزي,R18,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:30+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T01:35+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T01:35+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T01:40+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Standard,إنجليزي,R18,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,466f669d,Ebenezer,Premium,إنجليزي,R15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T01:45+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-15T01:50+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,4116265a,Verity,Standard,إنجليزي,R18,2026-11-15T01:55+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-15T02:00+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-15T02:00+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T02:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T02:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d90d4dda,Bouma,Standard,مالايالامي,R15,2026-11-15T02:05+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T02:10+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-15T02:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:15+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-15T02:25+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T02:25+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,627b51bc,The Shawshank Redemption (Re-release),Theatre,إنجليزي,R18,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T02:30+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T02:35+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T02:40+03:00
+2026-11-14T09:32:21+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:40+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:45+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T02:50+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T02:55+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,al-qasr-mall-riyadh,riyadh,d5d365d6,Matloub 3a2eleyain,Standard,عربي,PG15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,79fa8678,Belkis,Standard,تركي,R18,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,VIP,إنجليزي,R15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T03:00+03:00
+2026-11-14T09:32:21+03:00,vox,via-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T03:10+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9bc82eb0,Best Pancakes in the County,Premium,إنجليزي,R18,2026-11-15T03:10+03:00
+2026-11-14T09:32:21+03:00,vox,the-roof-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T03:10+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T03:15+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T03:20+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,758d31f3,The Mongoose,Standard,إنجليزي,PG15,2026-11-15T03:20+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-15T03:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,ea070600,How to Rob a Bank,Theatre,إنجليزي,R15,2026-11-15T03:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-15T03:30+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-15T03:30+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,602f07e6,Clayface,Theatre,إنجليزي,R18,2026-11-15T03:30+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,602f07e6,Clayface,Premium,إنجليزي,R18,2026-11-15T03:45+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,466f669d,Ebenezer,Theatre,إنجليزي,R15,2026-11-15T03:45+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-15T03:45+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,dc3c99bb,Remember,Standard,Tagalog,PG15,2026-11-15T03:45+03:00
+2026-11-14T09:32:21+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T03:50+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,VIP,إنجليزي,R15,2026-11-15T03:50+03:00
+2026-11-14T09:32:21+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-15T03:50+03:00
+2026-11-14T09:32:21+03:00,vox,roshn-front-riyadh,riyadh,4116265a,Verity,Premium,إنجليزي,R18,2026-11-15T03:55+03:00
+2026-11-14T09:32:21+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T03:55+03:00
