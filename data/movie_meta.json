@@ -151,7 +151,7 @@
  "heart of the beast": {
   "imdb_id": "tt7526136",
   "title_en": "Heart of the Beast",
-  "overview": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+  "overview": "After a harrowing plane crash, Special Forces veteran James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
   "genres": [
    "أكشن",
    "مغامرة",
@@ -166,11 +166,11 @@
    "J.K. Simmons",
    "Anna Lambe"
   ],
-  "imdb_rating": "7.5",
-  "imdb_votes": 542,
+  "imdb_rating": "7.1",
+  "imdb_votes": 44562,
   "trailer": "https://www.youtube.com/results?search_query=Heart%20of%20the%20Beast%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "beware boiuna": {
   "missing": true,
@@ -1405,7 +1405,7 @@
  },
  "douaa alkarawan": {
   "missing": true,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "last temptation of becky": {
   "imdb_id": "tt40210362",
@@ -1429,7 +1429,7 @@
   "imdb_votes": 41,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Temptation%20of%20Becky%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "belkis": {
   "imdb_id": "tt41407940",
@@ -1451,7 +1451,7 @@
   "imdb_votes": 121,
   "trailer": "https://www.youtube.com/results?search_query=Kible%3A%20Bitlisli%20Belkis%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "george michael the faith tour": {
   "imdb_id": "tt40564737",
@@ -1471,11 +1471,11 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=George%20Michael%3A%20The%20Faith%20Tour%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "gupi the grumpy king": {
   "missing": true,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "best pancakes in the county": {
   "imdb_id": "tt38258118",
@@ -1498,7 +1498,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Best%20Pancakes%20in%20the%20County%202027%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "remember": {
   "imdb_id": "tt44536647",
@@ -1521,7 +1521,7 @@
   "imdb_votes": 242,
   "trailer": "https://www.youtube.com/results?search_query=A%20Knight%20to%20Remember%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "les misérables": {
   "imdb_id": "tt35518109",
@@ -1545,11 +1545,11 @@
   "imdb_votes": 17,
   "trailer": "https://www.youtube.com/results?search_query=Les%20mis%C3%A9rables%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "adarsha kutumbam house no 47": {
   "missing": true,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  },
  "bouma": {
   "imdb_id": "tt44878818",
@@ -1571,6 +1571,6 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Bouma%202026%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-13T12:37:28.094221+03:00"
+  "omdb_at": "2026-11-14T17:12:45.537141+03:00"
  }
 }
