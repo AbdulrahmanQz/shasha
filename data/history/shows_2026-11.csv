@@ -13741,3 +13741,43 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-11-15T14:02:05+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T03:00+03:00
 2026-11-15T14:02:05+03:00,vox,sahara-mall-riyadh,riyadh,466f669d,Ebenezer,Standard,إنجليزي,R15,2026-11-16T03:05+03:00
 2026-11-15T14:02:05+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T03:40+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T20:35+03:00
+2026-11-15T20:46:15+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-15T21:00+03:00
+2026-11-15T20:46:15+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T21:20+03:00
+2026-11-15T20:46:15+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T21:30+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T21:40+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T22:15+03:00
+2026-11-15T20:46:15+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T22:40+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T22:50+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,8aa205df,George Michael: The Faith Tour,IMAX,إنجليزي,R15,2026-11-15T22:50+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-15T23:00+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-15T23:15+03:00
+2026-11-15T20:46:15+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-15T23:30+03:00
+2026-11-15T20:46:15+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-15T23:40+03:00
+2026-11-15T20:46:15+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-15T23:45+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-16T00:00+03:00
+2026-11-15T20:46:15+03:00,vox,riyadh-park-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-16T00:00+03:00
+2026-11-15T20:46:15+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T00:00+03:00
+2026-11-15T20:46:15+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T00:15+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T00:15+03:00
+2026-11-15T20:46:15+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-16T00:30+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T00:45+03:00
+2026-11-15T20:46:15+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T01:00+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-16T01:00+03:00
+2026-11-15T20:46:15+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T01:10+03:00
+2026-11-15T20:46:15+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T01:15+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T01:15+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T01:30+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-16T01:30+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-16T01:45+03:00
+2026-11-15T20:46:15+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-16T01:50+03:00
+2026-11-15T20:46:15+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-16T02:10+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-16T02:30+03:00
+2026-11-15T20:46:15+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T02:45+03:00
+2026-11-15T20:46:15+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T02:45+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T03:15+03:00
+2026-11-15T20:46:15+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T03:35+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-16T03:40+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-16T03:45+03:00
+2026-11-15T20:46:15+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-16T03:55+03:00
+2026-11-15T20:46:15+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-16T03:59+03:00
