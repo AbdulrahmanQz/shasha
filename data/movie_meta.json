@@ -1429,7 +1429,7 @@
   "imdb_votes": 41,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Temptation%20of%20Becky%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-17T01:11:12.294947+03:00"
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
  },
  "belkis": {
   "imdb_id": "tt41407940",
@@ -1571,6 +1571,102 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Bouma%202026%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-17T01:11:12.294947+03:00"
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "i play rocky": {
+  "imdb_id": "tt11995650",
+  "title_en": "I Play Rocky",
+  "overview": "A failing actor writes the ultimate underdog story and must fight for his chance to play the role of a lifetime - Rocky Balboa.",
+  "genres": [
+   "سيرة",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "2026-11-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+  "director": "Peter Farrelly",
+  "cast": [
+   "AnnaSophia Robb",
+   "Toby Kebbell",
+   "Matt Dillon"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=I%20Play%20Rocky%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "traveller s hell": {
+  "missing": true,
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "crypto": {
+  "imdb_id": "tt32453902",
+  "title_en": "Crypto",
+  "overview": "A young autistic man (WALLY) is recruited by an old friend of his deceased mother to help truck supplies across the country. But what seems like a legitimate job turns out to be a scheme to take advantage of Wally's skills in math...",
+  "genres": [
+   "أكشن"
+  ],
+  "runtime": 90,
+  "release_date": "2026-08-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmJkYTQ1YTctNmZkNS00N2I4LWFmYjYtNTU3OGM2OWUyNDkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Brian Clyde",
+  "cast": [
+   "Marcus Brandon",
+   "Russell Smith",
+   "Elijah Negasi"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Crypto%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "you can see everything": {
+  "imdb_id": "tt45368240",
+  "title_en": "You Can See Everything",
+  "overview": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey.",
+  "genres": [
+   "وثائقي",
+   "سيرة"
+  ],
+  "runtime": 174,
+  "release_date": "2026-10-16",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Nathan Fielder",
+  "cast": [
+   "Billy Evans",
+   "Nathan Fielder",
+   "Elizabeth Holmes"
+  ],
+  "imdb_rating": "7.9",
+  "imdb_votes": 165,
+  "trailer": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "hunger games sunrise on the reaping": {
+  "imdb_id": "tt32558705",
+  "title_en": "The Hunger Games: Sunrise on the Reaping",
+  "overview": "Explores Panem 24 years before Katniss' saga, starting on the morning of the reaping for the 50th Hunger Games, where a young Haymitch Abernathy participates.",
+  "genres": [
+   "أكشن",
+   "مغامرة",
+   "دراما"
+  ],
+  "runtime": 150,
+  "release_date": "2026-11-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Francis Lawrence",
+  "cast": [
+   "Joseph Zada",
+   "Elle Fanning",
+   "Mckenna Grace"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-18T07:27:45.792638+03:00"
  }
 }
