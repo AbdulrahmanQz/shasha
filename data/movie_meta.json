@@ -1668,5 +1668,78 @@
   "trailer": "https://www.youtube.com/results?search_query=The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping%202026%20trailer",
   "missing": false,
   "omdb_at": "2026-11-18T07:27:45.792638+03:00"
+ },
+ "ghost soldier": {
+  "imdb_id": "tt0824756",
+  "title_en": "Ghost Soldier",
+  "overview": "When JAMES and EMMA were 10, they buried a time capsule in his backyard before she moved away to commemorate...",
+  "genres": [
+   "Short",
+   "دراما",
+   "حرب"
+  ],
+  "runtime": 15,
+  "release_date": "",
+  "poster": "",
+  "director": "Allan Tsao",
+  "cast": [
+   "Perry Tsao",
+   "Cachet Lamar",
+   "Abe Jaffer",
+   "Michael Coto"
+  ],
+  "imdb_rating": "6.9",
+  "imdb_votes": 12,
+  "trailer": "https://www.youtube.com/results?search_query=Ghost%20Soldier%202006%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-19T06:35:01.810849+03:00"
+ },
+ "bachelor party d eux": {
+  "imdb_id": "tt41075537",
+  "title_en": "Bachelor Party D'eux",
+  "overview": "",
+  "genres": [
+   "أكشن",
+   "كوميدي",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-15",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ4MDYyMDgtZGQxNS00MWE5LWE2ZDAtZDcxZWJlMzhkZDU5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+  "director": "Amal Neerad",
+  "cast": [
+   "Sreenath Bhasi",
+   "Krishna Hansika",
+   "Nadia Moidu"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Bachelor%20Party%20D%27eux%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-19T06:35:01.810849+03:00"
+ },
+ "three wishes for cinderella": {
+  "imdb_id": "tt35135723",
+  "title_en": "Three wishes for Cinderella",
+  "overview": "In this magical, funny twist on Cinderella, a woodcutter transformed into a chipmunk, a nut-granting tree, and true love help her escape a forced royal wedding.",
+  "genres": [
+   "أنميشن",
+   "مغامرة",
+   "كوميدي"
+  ],
+  "runtime": null,
+  "release_date": "2026-04-09",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjE1ZTZlYjgtM2VmMC00MmQ5LThiYjktZWRkM2VhZDk5MjFiXkEyXkFqcGc@._V1_SX600.jpg",
+  "director": "Vitaly Shafirov",
+  "cast": [],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Three%20wishes%20for%20Cinderella%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-19T06:35:01.810849+03:00"
+ },
+ "ala bab alwazer": {
+  "missing": true,
+  "omdb_at": "2026-11-19T06:35:01.810849+03:00"
  }
 }
