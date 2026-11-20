@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-18T17:06:22.312489+03:00"
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -320,7 +320,7 @@
  },
  "matloub 3a2eleyain": {
   "missing": true,
-  "omdb_at": "2026-11-18T17:06:22.312489+03:00"
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  },
  "social reckoning": {
   "imdb_id": "tt37510326",
@@ -489,7 +489,7 @@
   "imdb_votes": 1331,
   "trailer": "https://www.youtube.com/results?search_query=Forgotten%20Island%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-19T01:00:35.391718+03:00"
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  },
  "sa3oud wainah": {
   "missing": false,
@@ -1004,7 +1004,7 @@
   "imdb_votes": 1752,
   "trailer": "https://www.youtube.com/results?search_query=Sense%20and%20Sensibility%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-18T17:06:22.312489+03:00"
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  },
  "it feeds": {
   "imdb_id": "tt37679138",
@@ -1130,7 +1130,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-18T17:06:22.312489+03:00"
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  },
  "cat in the hat": {
   "imdb_id": "tt2321555",
@@ -1741,5 +1741,53 @@
  "ala bab alwazer": {
   "missing": true,
   "omdb_at": "2026-11-19T06:35:01.810849+03:00"
+ },
+ "aakasamlo oka tara": {
+  "imdb_id": "tt33044571",
+  "title_en": "Aakasamlo Oka Tara",
+  "overview": "",
+  "genres": [
+   "أكشن",
+   "مغامرة",
+   "دراما"
+  ],
+  "runtime": null,
+  "release_date": "",
+  "poster": "https://m.media-amazon.com/images/M/MV5BODMzMjM5ZDctZDI2NC00OTdjLTk5MjQtZDliNzAzYzc3MzAxXkEyXkFqcGc@._V1_SX600.jpg",
+  "director": "Pavan Sadineni",
+  "cast": [
+   "Keshav Deepak",
+   "Shruti Haasan",
+   "Dulquer Salmaan"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Aakasamlo%20Oka%20Tara%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
+ },
+ "om chapter 1 udhiram the blood": {
+  "imdb_id": "tt34515768",
+  "title_en": "OM Chapter 1: Udhiram - The Blood Wood",
+  "overview": "Follows a man who saves 20 Tamil woodcutters arrested by police in a forest in Tiruvannamalai.",
+  "genres": [
+   "أكشن",
+   "دراما",
+   "إثارة"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-16",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI4ODQ0NWItYzA5NC00ODhlLThkOGYtNDc3MmI5Y2QzNTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Rajkumar Periasamy",
+  "cast": [
+   "Mammootty",
+   "Dhanush",
+   "Sai Pallavi"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=OM%20Chapter%201%3A%20Udhiram%20-%20The%20Blood%20Wood%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-20T06:24:00.144691+03:00"
  }
 }
