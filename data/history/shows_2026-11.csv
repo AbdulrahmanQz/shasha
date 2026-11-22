@@ -18935,3 +18935,32 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-11-22T09:57:23+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T03:50+03:00
 2026-11-22T09:57:23+03:00,vox,al-qasr-mall-riyadh,riyadh,2643e700,I Play Rocky,Standard,إنجليزي,R15,2026-11-23T03:50+03:00
 2026-11-22T09:57:23+03:00,vox,atyaf-mall-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-23T03:59+03:00
+2026-11-22T18:24:03+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-22T18:20+03:00
+2026-11-22T18:24:03+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-22T18:50+03:00
+2026-11-22T18:24:03+03:00,vox,the-roof-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-22T19:15+03:00
+2026-11-22T18:24:03+03:00,vox,riyadh-park-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-22T19:40+03:00
+2026-11-22T18:24:03+03:00,vox,century-corner-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-22T20:30+03:00
+2026-11-22T18:24:03+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-22T21:20+03:00
+2026-11-22T18:24:03+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-22T21:45+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-22T22:00+03:00
+2026-11-22T18:24:03+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-22T22:15+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-22T22:15+03:00
+2026-11-22T18:24:03+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-22T22:45+03:00
+2026-11-22T18:24:03+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-22T23:10+03:00
+2026-11-22T18:24:03+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-22T23:50+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T00:00+03:00
+2026-11-22T18:24:03+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T00:00+03:00
+2026-11-22T18:24:03+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-23T00:00+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-23T00:15+03:00
+2026-11-22T18:24:03+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T00:30+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-23T00:45+03:00
+2026-11-22T18:24:03+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T01:25+03:00
+2026-11-22T18:24:03+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-23T01:30+03:00
+2026-11-22T18:24:03+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T01:45+03:00
+2026-11-22T18:24:03+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T02:20+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-23T02:25+03:00
+2026-11-22T18:24:03+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T02:30+03:00
+2026-11-22T18:24:03+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-23T02:30+03:00
+2026-11-22T18:24:03+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-23T02:35+03:00
+2026-11-22T18:24:03+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-23T03:10+03:00
+2026-11-22T18:24:03+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-23T03:25+03:00
