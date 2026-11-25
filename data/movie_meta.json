@@ -99,7 +99,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Verity%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-22T18:24:03.631906+03:00"
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
  },
  "florist": {
   "imdb_id": "tt33214716",
@@ -1290,7 +1290,7 @@
   "imdb_votes": 416,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Scene%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-23T15:56:37.379961+03:00"
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
  },
  "euff 2026 sentimental value": {
   "missing": true,
@@ -1590,7 +1590,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Bouma%202026%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-23T15:56:37.379961+03:00"
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
  },
  "i play rocky": {
   "imdb_id": "tt11995650",
@@ -1759,7 +1759,7 @@
  },
  "ala bab alwazer": {
   "missing": true,
-  "omdb_at": "2026-11-23T15:56:37.379961+03:00"
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
  },
  "aakasamlo oka tara": {
   "imdb_id": "tt33044571",
@@ -1812,5 +1812,79 @@
  "bts world tour arirang in kaohsiung live viewin": {
   "missing": true,
   "omdb_at": "2026-11-21T05:22:42.057938+03:00"
+ },
+ "focker in law": {
+  "imdb_id": "tt34966140",
+  "title_en": "Focker-In-Law",
+  "overview": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+  "genres": [
+   "كوميدي"
+  ],
+  "runtime": null,
+  "release_date": "2026-11-25",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+  "director": "John Hamburg",
+  "cast": [
+   "Robert De Niro",
+   "Ben Stiller",
+   "Beanie Feldstein"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Focker-In-Law%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+ },
+ "lela bazit khalis": {
+  "missing": true,
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+ },
+ "hexed": {
+  "imdb_id": "tt38077943",
+  "title_en": "Hexed",
+  "overview": "An awkward teen and her Type-A mother learn her peculiarities might be magical powers, transforming their lives and revealing a hidden magical realm.",
+  "genres": [
+   "أنميشن",
+   "مغامرة",
+   "كوميدي"
+  ],
+  "runtime": null,
+  "release_date": "2026-11-25",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JkZDhjNjMtZDE3MS00ZTExLWI2MjQtMDdmZTIyZGIyNzZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+  "director": "Jason Hand",
+  "cast": [
+   "Hailee Steinfeld",
+   "Rashida Jones",
+   "Jim Hanks"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Hexed%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+ },
+ "paper tiger": {
+  "imdb_id": "tt34385689",
+  "title_en": "Paper Tiger",
+  "overview": "Two brothers pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family, testing their bond as betrayal becomes possible.",
+  "genres": [
+   "جريمة",
+   "دراما",
+   "إثارة"
+  ],
+  "runtime": 115,
+  "release_date": "2026-11-20",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWU2MTI0M2MtZjc3My00MzhlLWJkMDMtN2E4ODNlYTg3ODJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "James Gray",
+  "cast": [
+   "Adam Driver",
+   "Scarlett Johansson",
+   "Miles Teller"
+  ],
+  "imdb_rating": "7.0",
+  "imdb_votes": 556,
+  "trailer": "https://www.youtube.com/results?search_query=Paper%20Tiger%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
  }
 }
