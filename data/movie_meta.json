@@ -1154,7 +1154,7 @@
   "imdb_votes": 49,
   "trailer": "https://www.youtube.com/results?search_query=The%20Cat%20in%20the%20Hat%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T00:17:03.251985+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "euff 2026 hold onto me": {
   "missing": true,
@@ -1290,7 +1290,7 @@
   "imdb_votes": 416,
   "trailer": "https://www.youtube.com/results?search_query=The%20Last%20Scene%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "euff 2026 sentimental value": {
   "missing": true,
@@ -1420,7 +1420,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=How%20to%20Rob%20a%20Bank%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T00:17:03.251985+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "douaa alkarawan": {
   "missing": true,
@@ -1833,11 +1833,11 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Focker-In-Law%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "lela bazit khalis": {
   "missing": true,
-  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "hexed": {
   "imdb_id": "tt38077943",
@@ -1861,7 +1861,7 @@
   "imdb_votes": null,
   "trailer": "https://www.youtube.com/results?search_query=Hexed%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  },
  "paper tiger": {
   "imdb_id": "tt34385689",
@@ -1885,6 +1885,93 @@
   "imdb_votes": 556,
   "trailer": "https://www.youtube.com/results?search_query=Paper%20Tiger%202026%20trailer",
   "missing": false,
-  "omdb_at": "2026-11-25T07:21:12.009669+03:00"
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
+ },
+ "hail mary": {
+  "imdb_id": "tt44090225",
+  "title_en": "Hail Mary",
+  "overview": "",
+  "genres": [],
+  "runtime": null,
+  "release_date": "2026-11-26",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGRjNjFjYjUtNzAyNC00NmFmLTljODMtMGQ1Y2VmN2Q4NGEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,22,280,280_.jpg",
+  "director": "Vishnu Revikumar",
+  "cast": [
+   "Kunchacko Boban",
+   "Vinay Forrt",
+   "Jagadish"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Hail%20Mary%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
+ },
+ "scorpion": {
+  "imdb_id": "tt33473834",
+  "title_en": "Scorpion",
+  "overview": "A CIA assassin goes into hiding after taking the fall for a failed mission. To protect his daughter, he must take down the agency chief who set him up.",
+  "genres": [
+   "إثارة"
+  ],
+  "runtime": null,
+  "release_date": "2026-10-30",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAyODNhY2EtNGMwZi00OGZiLWE5YWEtOTUzOGYzYTlkMDQyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+  "director": "Brian Skiba",
+  "cast": [
+   "Kaitlyn Kemp",
+   "Timothy V. Murphy",
+   "Laurie Love"
+  ],
+  "imdb_rating": "4.3",
+  "imdb_votes": 95,
+  "trailer": "https://www.youtube.com/results?search_query=Scorpion%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
+ },
+ "grin": {
+  "imdb_id": "tt37599451",
+  "title_en": "Grin",
+  "overview": "Eva visits her family and meets her mother's new partner, Lucian. Lucian introduces a creepy, old board game. The players think the game is just a fun challenge. Soon, they realize the game is real and deadly. It unleashes a demon...",
+  "genres": [
+   "رعب"
+  ],
+  "runtime": 81,
+  "release_date": "2026-10-07",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDdhOTAwYWQtYWNiMi00YTIwLWEwNWYtZjMwNWVlODAyODM2XkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+  "director": "Lawrence Fowler",
+  "cast": [
+   "Gareth Tidball",
+   "Lucas Edwards",
+   "Simon Davies"
+  ],
+  "imdb_rating": "",
+  "imdb_votes": null,
+  "trailer": "https://www.youtube.com/results?search_query=Grin%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
+ },
+ "fjord": {
+  "imdb_id": "tt35410859",
+  "title_en": "Fjord",
+  "overview": "An immigrant Romanian family living in Norway is subject to an investigation and faces the scrutiny of the local judicial system.",
+  "genres": [
+   "دراما",
+   "إثارة"
+  ],
+  "runtime": 146,
+  "release_date": "2026-10-23",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "director": "Cristian Mungiu",
+  "cast": [
+   "Sebastian Stan",
+   "Renate Reinsve",
+   "Lisa Carlehed"
+  ],
+  "imdb_rating": "7.6",
+  "imdb_votes": 4193,
+  "trailer": "https://www.youtube.com/results?search_query=Fjord%202026%20trailer",
+  "missing": false,
+  "omdb_at": "2026-11-26T12:36:16.411309+03:00"
  }
 }
