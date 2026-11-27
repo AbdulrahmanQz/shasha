@@ -22129,3 +22129,679 @@ scraped_at,chain,cinema_slug,city,movie_id,title_clean,experience,language,ratin
 2026-11-26T22:40:37+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T03:30+03:00
 2026-11-26T22:40:37+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T03:40+03:00
 2026-11-26T22:40:37+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T03:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T06:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T07:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T07:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T07:10+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T07:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T07:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T07:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T07:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T08:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,MAX,تاميلي,R15,2026-11-27T08:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T09:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T09:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T09:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T09:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T09:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T10:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T10:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T10:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T10:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T10:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T10:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T10:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T10:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T10:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T10:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-27T10:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T10:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T11:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T11:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T11:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T11:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-27T11:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T11:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T11:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,VIP,عربي,R18,2026-11-27T12:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T12:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T12:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T12:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T12:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,VIP,عربي,R18,2026-11-27T12:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T12:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T12:35+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T12:35+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T12:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T12:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a975dc9e,You Can See Everything,Standard,إنجليزي,R15,2026-11-27T12:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-27T12:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T12:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,80f91218,Cosmic Samson,Standard,مالايالامي,R15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Premium,إنجليزي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,VIP,إنجليزي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T13:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T13:05+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T13:10+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T13:10+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,a975dc9e,You Can See Everything,VIP,إنجليزي,R15,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,a7813076,Gun Maaster G9,Standard,هندي,R18,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T13:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,00120c4a,Yeh Prem Mol Liya,Standard,هندي,PG15,2026-11-27T13:20+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a975dc9e,You Can See Everything,Standard,إنجليزي,R15,2026-11-27T13:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T13:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T13:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T13:40+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T13:40+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T13:40+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,5ae9b7f2,Crypto,VIP,عربي,PG15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T13:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T14:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-27T14:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T14:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T14:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T14:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-27T14:30+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T14:35+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,5ae9b7f2,Crypto,VIP,عربي,PG15,2026-11-27T14:40+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T14:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T14:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T14:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T14:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T14:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,d6fe1cd5,Fjord,Premium,إنجليزي,R15,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T15:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T15:10+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Premium,إنجليزي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T15:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T15:20+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T15:20+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T15:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T15:25+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T15:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T15:40+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T15:40+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T15:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,00120c4a,Yeh Prem Mol Liya,Standard,هندي,PG15,2026-11-27T15:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T15:50+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T15:55+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,VIP,عربي,R18,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,MAX,تاميلي,R15,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Standard,إنجليزي,R18,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T16:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T16:05+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a7813076,Gun Maaster G9,Standard,هندي,R18,2026-11-27T16:10+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,00120c4a,Yeh Prem Mol Liya,Standard,هندي,PG15,2026-11-27T16:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T16:20+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:20+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T16:25+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,VIP,إنجليزي,PG15,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-27T16:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T16:35+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T16:35+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T16:40+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T16:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:50+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T16:50+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T16:55+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,27591aff,Traveller's Hell,VIP,عربي,R15,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,VIP,عربي,R18,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2643e700,I Play Rocky,Standard,إنجليزي,R15,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T17:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,1e7f604b,Scene,Standard,تاميلي,R18,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T17:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T17:25+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Premium,إنجليزي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T17:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T17:35+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T17:40+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T17:40+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,5ae9b7f2,Crypto,Premium,عربي,PG15,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T17:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T17:50+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T18:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T18:05+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T18:10+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a975dc9e,You Can See Everything,Standard,إنجليزي,R15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,إنجليزي,PG,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T18:20+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Premium,عربي,PG15,2026-11-27T18:25+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T18:25+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T18:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T18:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T18:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T18:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-27T18:30+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,58ed6d28,Hexed,VIP,إنجليزي,PG12,2026-11-27T18:35+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T18:35+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T18:40+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Premium,إنجليزي,R18,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T18:50+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-27T19:15+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T19:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T19:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T19:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,عربي,PG,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,80f91218,Cosmic Samson,Standard,مالايالامي,R15,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T19:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T19:40+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,MAX,مالايالامي,PG15,2026-11-27T19:40+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,d6fe1cd5,Fjord,Premium,إنجليزي,R15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T19:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T19:50+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T19:50+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,VIP,إنجليزي,PG15,2026-11-27T19:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T19:55+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,2643e700,I Play Rocky,VIP,إنجليزي,R15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,3f8da8d1,Scorpion,Standard,إنجليزي,R15,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T20:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-27T20:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a7813076,Gun Maaster G9,Standard,هندي,R18,2026-11-27T20:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T20:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T20:35+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T20:35+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T20:35+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T20:40+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Premium,إنجليزي,R18,2026-11-27T20:40+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T20:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T20:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T20:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,VIP,عربي,R18,2026-11-27T20:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T21:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T21:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:25+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T21:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T21:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T21:35+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:40+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-27T21:40+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,58ed6d28,Hexed,Theatre,إنجليزي,PG12,2026-11-27T21:40+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,5ae9b7f2,Crypto,Premium,عربي,PG15,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T21:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T21:50+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T21:50+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2643e700,I Play Rocky,Standard,إنجليزي,R15,2026-11-27T21:55+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,3f8da8d1,Scorpion,Standard,إنجليزي,R15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,5def364a,Grin,Standard,إنجليزي,R18,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-27T22:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T22:05+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-27T22:05+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Standard,عربي,PG,2026-11-27T22:10+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T22:10+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Standard,إنجليزي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T22:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:25+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,00120c4a,Yeh Prem Mol Liya,Standard,هندي,PG15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a7813076,Gun Maaster G9,Standard,هندي,R18,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,987ebd3b,Sense and Sensibility,Premium,إنجليزي,PG15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T22:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-27T22:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-27T22:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T22:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-27T22:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T22:50+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Premium,عربي,PG15,2026-11-27T22:55+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T22:55+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T22:55+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,عربي,PG,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,عربي,PG12,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Theatre,عربي,R18,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,2643e700,I Play Rocky,VIP,إنجليزي,R15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,MAX,تاميلي,R15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-27T23:00+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,VIP,إنجليزي,PG15,2026-11-27T23:10+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T23:10+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-27T23:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-27T23:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-27T23:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-27T23:25+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T23:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-27T23:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-27T23:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T23:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-27T23:40+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,3f8da8d1,Scorpion,Standard,إنجليزي,R15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-27T23:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,ea070600,How to Rob a Bank,Standard,إنجليزي,R15,2026-11-27T23:50+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-27T23:55+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5def364a,Grin,Standard,إنجليزي,R18,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,27591aff,Traveller's Hell,Premium,عربي,R15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-28T00:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-28T00:05+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:05+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,VIP,إنجليزي,R15,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-28T00:15+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,5ae9b7f2,Crypto,VIP,عربي,PG15,2026-11-28T00:20+03:00
+2026-11-27T05:54:04+03:00,vox,kingdom-centre-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-28T00:20+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-28T00:25+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T00:25+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T00:25+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T00:25+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T00:25+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-28T00:35+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-28T00:35+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T00:40+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T00:40+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T00:40+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T00:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-28T00:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T00:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T00:45+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-28T00:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T00:50+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Theatre,عربي,R18,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T01:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,602f07e6,Clayface,Premium,إنجليزي,R18,2026-11-28T01:10+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-28T01:10+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-28T01:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Theatre,عربي,R18,2026-11-28T01:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:15+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Premium,عربي,PG15,2026-11-28T01:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T01:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-28T01:20+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-28T01:25+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:25+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,118c4a6e,Hail Mary,Standard,مالايالامي,R18,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:30+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-28T01:35+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T01:35+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,5def364a,Grin,Standard,إنجليزي,R18,2026-11-28T01:40+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-28T01:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-28T01:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-28T01:45+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:45+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T01:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,3f8da8d1,Scorpion,Standard,إنجليزي,R15,2026-11-28T01:50+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,00120c4a,Yeh Prem Mol Liya,Standard,هندي,PG15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Premium,إنجليزي,PG15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,32af7cdd,Aakasamlo Oka Tara,Standard,مالايالامي,PG15,2026-11-28T02:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:15+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T02:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T02:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T02:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T02:15+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-28T02:25+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T02:25+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,riyadh-park-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,IMAX,إنجليزي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,a7813076,Gun Maaster G9,Standard,هندي,R18,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,5ae9b7f2,Crypto,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,عربي,PG12,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,14975e73,Focker In-Law,Theatre,إنجليزي,R18,2026-11-28T02:35+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T02:40+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,9e898261,Hadoota,MAX,عربي,PG15,2026-11-28T02:40+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T02:45+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T02:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T02:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T02:45+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T02:45+03:00
+2026-11-27T05:54:04+03:00,vox,via-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T02:50+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Kids,إنجليزي,PG12,2026-11-28T02:55+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,a1c5e545,Paper Tiger,Theatre,إنجليزي,R15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,53d29a14,The Cat In The Hat,Kids,إنجليزي,PG,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:00+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Theatre,عربي,R18,2026-11-28T03:10+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T03:10+03:00
+2026-11-27T05:54:04+03:00,vox,the-spot-sheikh-jaber-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-28T03:10+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:15+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-28T03:15+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T03:15+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,e8fea5e2,The Hunger Games: Sunrise on the Reaping,Standard,إنجليزي,PG15,2026-11-28T03:15+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,14975e73,Focker In-Law,Standard,إنجليزي,R18,2026-11-28T03:20+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,27591aff,Traveller's Hell,Standard,عربي,R15,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a1c5e545,Paper Tiger,Standard,إنجليزي,R15,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Theatre,عربي,R18,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,9e898261,Hadoota,VIP,عربي,PG15,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5ae9b7f2,Crypto,Premium,عربي,PG15,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-28T03:30+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,a1c5e545,Paper Tiger,Premium,إنجليزي,R15,2026-11-28T03:35+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,14975e73,Focker In-Law,VIP,إنجليزي,R18,2026-11-28T03:35+03:00
+2026-11-27T05:54:04+03:00,vox,century-corner-riyadh,riyadh,9e898261,Hadoota,Theatre,عربي,PG15,2026-11-28T03:40+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,a39093b5,Ghost Soldier,Standard,إنجليزي,PG15,2026-11-28T03:45+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,2ccb06d4,Lela Bazit Khalis,Standard,عربي,R18,2026-11-28T03:45+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:50+03:00
+2026-11-27T05:54:04+03:00,vox,al-qasr-mall-riyadh,riyadh,470d13f1,OM - Chapter 1: Udhiram - The Blood,Standard,تاميلي,R15,2026-11-28T03:50+03:00
+2026-11-27T05:54:04+03:00,vox,roshn-front-riyadh,riyadh,5def364a,Grin,Standard,إنجليزي,R18,2026-11-28T03:50+03:00
+2026-11-27T05:54:04+03:00,vox,atyaf-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:55+03:00
+2026-11-27T05:54:04+03:00,vox,the-roof-riyadh,riyadh,58ed6d28,Hexed,Standard,إنجليزي,PG12,2026-11-28T03:59+03:00
+2026-11-27T05:54:04+03:00,vox,sahara-mall-riyadh,riyadh,9e898261,Hadoota,Standard,عربي,PG15,2026-11-28T03:59+03:00
